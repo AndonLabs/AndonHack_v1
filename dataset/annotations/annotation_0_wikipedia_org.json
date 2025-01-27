@@ -1,0 +1,556 @@
+{
+  "url": "https://www.wikipedia.org/",
+  "website_name": "wikipedia_org",
+  "screenshot_path": "dataset/screenshots/screenshot_0_wikipedia_org.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 1188,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "0_0",
+      "description": "a link that says 'English\n6,924,000+ articles'",
+      "bounding_box": {
+        "x": 1499,
+        "y": 270,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "English\n6,924,000+ articles",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "English \u2014 Wikipedia \u2014 The Free Encyclopedia"
+      }
+    },
+    {
+      "id": "0_1",
+      "description": "a link that says '\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n2 014 000+ \u0441\u0442\u0430\u0442\u0435\u0439'",
+      "bounding_box": {
+        "x": 2029,
+        "y": 270,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n2 014 000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Russkiy \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f \u2014 \u0421\u0432\u043e\u0431\u043e\u0434\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f"
+      }
+    },
+    {
+      "id": "0_2",
+      "description": "a link that says '\u65e5\u672c\u8a9e\n1,440,000+ \u8a18\u4e8b'",
+      "bounding_box": {
+        "x": 1390,
+        "y": 400,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "\u65e5\u672c\u8a9e\n1,440,000+ \u8a18\u4e8b",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Nihongo \u2014 \u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2 \u2014 \u30d5\u30ea\u30fc\u767e\u79d1\u4e8b\u5178"
+      }
+    },
+    {
+      "id": "0_3",
+      "description": "a link that says 'Deutsch\n2.968.000+ Artikel'",
+      "bounding_box": {
+        "x": 2138,
+        "y": 400,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "Deutsch\n2.968.000+ Artikel",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Deutsch \u2014 Wikipedia \u2014 Die freie Enzyklop\u00e4die"
+      }
+    },
+    {
+      "id": "0_4",
+      "description": "a link that says 'Fran\u00e7ais\n2\u202f652\u202f000+ articles'",
+      "bounding_box": {
+        "x": 1368,
+        "y": 530,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "Fran\u00e7ais\n2\u202f652\u202f000+ articles",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Fran\u00e7ais \u2014 Wikip\u00e9dia \u2014 L\u2019encyclop\u00e9die libre"
+      }
+    },
+    {
+      "id": "0_5",
+      "description": "a link that says 'Espa\u00f1ol\n1.995.000+ art\u00edculos'",
+      "bounding_box": {
+        "x": 2160,
+        "y": 530,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "Espa\u00f1ol\n1.995.000+ art\u00edculos",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Espa\u00f1ol \u2014 Wikipedia \u2014 La enciclopedia libre"
+      }
+    },
+    {
+      "id": "0_6",
+      "description": "a link that says '\u4e2d\u6587\n1,454,000+ \u6761\u76ee / \u689d\u76ee'",
+      "bounding_box": {
+        "x": 1390,
+        "y": 660,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "\u4e2d\u6587\n1,454,000+ \u6761\u76ee / \u689d\u76ee",
+      "attributes": {
+        "class": "link-box localize-variant",
+        "role": null,
+        "aria-label": null,
+        "title": "Zh\u014dngw\u00e9n \u2014 \u7ef4\u57fa\u767e\u79d1 / \u7dad\u57fa\u767e\u79d1 \u2014 \u81ea\u7531\u7684\u767e\u79d1\u5168\u4e66 / \u81ea\u7531\u7684\u767e\u79d1\u5168\u66f8"
+      }
+    },
+    {
+      "id": "0_7",
+      "description": "a link that says 'Italiano\n1.895.000+ voci'",
+      "bounding_box": {
+        "x": 2138,
+        "y": 660,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "Italiano\n1.895.000+ voci",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Italiano \u2014 Wikipedia \u2014 L'enciclopedia libera"
+      }
+    },
+    {
+      "id": "0_8",
+      "description": "a link that says '\u0641\u0627\u0631\u0633\u06cc\n\u06f1\u066c\u06f0\u06f2\u06f2\u066c\u06f0\u06f0\u06f0+ \u0645\u0642\u0627\u0644\u0647'",
+      "bounding_box": {
+        "x": 1499,
+        "y": 790,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "\u0641\u0627\u0631\u0633\u06cc\n\u06f1\u066c\u06f0\u06f2\u06f2\u066c\u06f0\u06f0\u06f0+ \u0645\u0642\u0627\u0644\u0647",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "F\u0101rsi \u2014 \u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627 \u2014 \u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654 \u0622\u0632\u0627\u062f"
+      }
+    },
+    {
+      "id": "0_9",
+      "description": "a link that says 'Portugu\u00eas\n1.139.000+ artigos'",
+      "bounding_box": {
+        "x": 2029,
+        "y": 790,
+        "width": 312,
+        "height": 91
+      },
+      "element_type": "a",
+      "text_content": "Portugu\u00eas\n1.139.000+ artigos",
+      "attributes": {
+        "class": "link-box",
+        "role": null,
+        "aria-label": null,
+        "title": "Portugu\u00eas \u2014 Wikip\u00e9dia \u2014 A enciclop\u00e9dia livre"
+      }
+    },
+    {
+      "id": "0_12",
+      "description": "the rightmost a search box",
+      "bounding_box": {
+        "x": 1470,
+        "y": 939,
+        "width": 788,
+        "height": 88
+      },
+      "element_type": "input",
+      "text_content": "",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_14",
+      "description": "a button labeled 'Search'",
+      "bounding_box": {
+        "x": 2258,
+        "y": 939,
+        "width": 112,
+        "height": 88
+      },
+      "element_type": "button",
+      "text_content": "Search",
+      "attributes": {
+        "class": "pure-button pure-button-primary-progressive",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_16",
+      "description": "a button labeled 'Read Wikipedia in your language'",
+      "bounding_box": {
+        "x": 1615,
+        "y": 1090,
+        "width": 611,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Read Wikipedia in your language",
+      "attributes": {
+        "class": "lang-list-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_371",
+      "description": "a link that says 'You can support our work with a donation.'",
+      "bounding_box": {
+        "x": 459,
+        "y": 1439,
+        "width": 510,
+        "height": 30
+      },
+      "element_type": "a",
+      "text_content": "You can support our work with a donation.",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_372",
+      "description": "a link that says 'Download Wikipedia for Android or iOS'",
+      "bounding_box": {
+        "x": 459,
+        "y": 1558,
+        "width": 500,
+        "height": 30
+      },
+      "element_type": "a",
+      "text_content": "Download Wikipedia for Android or iOS",
+      "attributes": {
+        "class": "jsl10n",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_373",
+      "description": "a link that says 'Google Play Store'",
+      "bounding_box": {
+        "x": 459,
+        "y": 1820,
+        "width": 248,
+        "height": 30
+      },
+      "element_type": "a",
+      "text_content": "Google Play Store",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_374",
+      "description": "a link that says 'Apple App Store'",
+      "bounding_box": {
+        "x": 714,
+        "y": 1820,
+        "width": 220,
+        "height": 30
+      },
+      "element_type": "a",
+      "text_content": "Apple App Store",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_375",
+      "description": "a link that says 'Commons\nFree media collection'",
+      "bounding_box": {
+        "x": 1352,
+        "y": 1318,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Commons\nFree media collection",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_376",
+      "description": "a link that says 'Wikivoyage\nFree travel guide'",
+      "bounding_box": {
+        "x": 2164,
+        "y": 1318,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikivoyage\nFree travel guide",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_377",
+      "description": "a link that says 'Wiktionary\nFree dictionary'",
+      "bounding_box": {
+        "x": 2977,
+        "y": 1318,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wiktionary\nFree dictionary",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_378",
+      "description": "a link that says 'Wikibooks\nFree textbooks'",
+      "bounding_box": {
+        "x": 1352,
+        "y": 1498,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikibooks\nFree textbooks",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_379",
+      "description": "a link that says 'Wikinews\nFree news source'",
+      "bounding_box": {
+        "x": 2164,
+        "y": 1498,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikinews\nFree news source",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_380",
+      "description": "a link that says 'Wikidata\nFree knowledge base'",
+      "bounding_box": {
+        "x": 2977,
+        "y": 1498,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikidata\nFree knowledge base",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_381",
+      "description": "a link that says 'Wikiversity\nFree learning resources'",
+      "bounding_box": {
+        "x": 1352,
+        "y": 1678,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikiversity\nFree learning resources",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_382",
+      "description": "a link that says 'Wikiquote\nFree quote compendium'",
+      "bounding_box": {
+        "x": 2164,
+        "y": 1678,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikiquote\nFree quote compendium",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_383",
+      "description": "a link that says 'MediaWiki\nFree & open wiki software'",
+      "bounding_box": {
+        "x": 2977,
+        "y": 1678,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "MediaWiki\nFree & open wiki software",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_384",
+      "description": "a link that says 'Wikisource\nFree content library'",
+      "bounding_box": {
+        "x": 1352,
+        "y": 1858,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikisource\nFree content library",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_385",
+      "description": "a link that says 'Wikispecies\nFree species directory'",
+      "bounding_box": {
+        "x": 2164,
+        "y": 1858,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikispecies\nFree species directory",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_386",
+      "description": "a link that says 'Wikifunctions\nFree function library'",
+      "bounding_box": {
+        "x": 2977,
+        "y": 1858,
+        "width": 783,
+        "height": 152
+      },
+      "element_type": "a",
+      "text_content": "Wikifunctions\nFree function library",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "0_387",
+      "description": "a link that says 'Meta-Wiki\nCommunity coordination & documentation'",
+      "bounding_box": {
+        "x": 1352,
+        "y": 2038,
+        "width": 783,
+        "height": 172
+      },
+      "element_type": "a",
+      "text_content": "Meta-Wiki\nCommunity coordination & documentation",
+      "attributes": {
+        "class": "other-project-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

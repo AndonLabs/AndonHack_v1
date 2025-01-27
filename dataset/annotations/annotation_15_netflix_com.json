@@ -1,0 +1,376 @@
+{
+  "url": "https://www.netflix.com/",
+  "website_name": "netflix_com",
+  "screenshot_path": "dataset/screenshots/screenshot_15_netflix_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 1097,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "15_0",
+      "description": "the rightmost a link to netflix.com/se-en",
+      "bounding_box": {
+        "x": 100,
+        "y": 106,
+        "width": 290,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": "Netflix Home Page"
+      }
+    },
+    {
+      "id": "15_1",
+      "description": "the rightmost a dropdown menu to select selectLocale",
+      "bounding_box": {
+        "x": 3515,
+        "y": 46,
+        "width": 334,
+        "height": 67
+      },
+      "element_type": "select",
+      "text_content": "Svenska\nEnglish",
+      "attributes": {
+        "class": "nfSelect",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_2",
+      "description": "a link that says 'here'",
+      "bounding_box": {
+        "x": 2244,
+        "y": 926,
+        "width": 72,
+        "height": 46
+      },
+      "element_type": "a",
+      "text_content": "here",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_3",
+      "description": "a link that says 'Contact us'",
+      "bounding_box": {
+        "x": 2054,
+        "y": 1020,
+        "width": 176,
+        "height": 46
+      },
+      "element_type": "a",
+      "text_content": "Contact us",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_4",
+      "description": "a link that says 'Questions? Contact us.'",
+      "bounding_box": {
+        "x": 830,
+        "y": 1706,
+        "width": 337,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "Questions? Contact us.",
+      "attributes": {
+        "class": "footer-top-a",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_5",
+      "description": "a link that says 'FAQ'",
+      "bounding_box": {
+        "x": 830,
+        "y": 1792,
+        "width": 52,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "FAQ",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_6",
+      "description": "a link that says 'Gift Card Terms'",
+      "bounding_box": {
+        "x": 1375,
+        "y": 1792,
+        "width": 185,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Gift Card Terms",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_7",
+      "description": "a link that says 'Help Centre'",
+      "bounding_box": {
+        "x": 1920,
+        "y": 1792,
+        "width": 142,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Help Centre",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_8",
+      "description": "a link that says 'Investor Relations'",
+      "bounding_box": {
+        "x": 2465,
+        "y": 1792,
+        "width": 209,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Investor Relations",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_9",
+      "description": "a link that says 'Terms of Use'",
+      "bounding_box": {
+        "x": 830,
+        "y": 1863,
+        "width": 155,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Terms of Use",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_10",
+      "description": "a link that says 'Privacy'",
+      "bounding_box": {
+        "x": 1375,
+        "y": 1863,
+        "width": 86,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Privacy",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_11",
+      "description": "a link that says 'Cookie Preferences'",
+      "bounding_box": {
+        "x": 1920,
+        "y": 1863,
+        "width": 230,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Cookie Preferences",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_12",
+      "description": "a link that says 'Corporate Information'",
+      "bounding_box": {
+        "x": 2465,
+        "y": 1863,
+        "width": 259,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Corporate Information",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_13",
+      "description": "a link that says 'Advert choices'",
+      "bounding_box": {
+        "x": 830,
+        "y": 1934,
+        "width": 176,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Advert choices",
+      "attributes": {
+        "class": "footer-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_14",
+      "description": "the leftmost a dropdown menu to select selectLocale",
+      "bounding_box": {
+        "x": 832,
+        "y": 2041,
+        "width": 412,
+        "height": 84
+      },
+      "element_type": "select",
+      "text_content": "Svenska\nEnglish",
+      "attributes": {
+        "class": "nfSelect",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_15",
+      "description": "a link that says 'cookies and similar technologies'",
+      "bounding_box": {
+        "x": 591,
+        "y": 223,
+        "width": 394,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "cookies and similar technologies",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_16",
+      "description": "a button labeled 'Learn more'",
+      "bounding_box": {
+        "x": 256,
+        "y": 324,
+        "width": 250,
+        "height": 83
+      },
+      "element_type": "button",
+      "text_content": "Learn more",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_17",
+      "description": "a button labeled 'Reject'",
+      "bounding_box": {
+        "x": 532,
+        "y": 324,
+        "width": 250,
+        "height": 83
+      },
+      "element_type": "button",
+      "text_content": "Reject",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_18",
+      "description": "a button labeled 'Accept'",
+      "bounding_box": {
+        "x": 808,
+        "y": 324,
+        "width": 250,
+        "height": 83
+      },
+      "element_type": "button",
+      "text_content": "Accept",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "15_19",
+      "description": "the rightmost a button for Close",
+      "bounding_box": {
+        "x": 3540,
+        "y": 266,
+        "width": 88,
+        "height": 88
+      },
+      "element_type": "button",
+      "text_content": "",
+      "attributes": {
+        "class": "onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon",
+        "role": null,
+        "aria-label": "Close",
+        "title": ""
+      }
+    }
+  ]
+}

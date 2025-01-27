@@ -1,0 +1,196 @@
+{
+  "url": "https://www.wordpress.com/",
+  "website_name": "wordpress_com",
+  "screenshot_path": "dataset/screenshots/screenshot_22_wordpress_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 5465,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "22_0",
+      "description": "a link that says 'GET STARTED'",
+      "bounding_box": {
+        "x": 2055,
+        "y": 48,
+        "width": 164,
+        "height": 29
+      },
+      "element_type": "a",
+      "text_content": "GET STARTED",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_3",
+      "description": "a button labeled 'Products'",
+      "bounding_box": {
+        "x": 424,
+        "y": 126,
+        "width": 205,
+        "height": 104
+      },
+      "element_type": "button",
+      "text_content": "Products",
+      "attributes": {
+        "class": "x-nav-link x-link",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_4",
+      "description": "a button labeled 'Features'",
+      "bounding_box": {
+        "x": 629,
+        "y": 126,
+        "width": 201,
+        "height": 104
+      },
+      "element_type": "button",
+      "text_content": "Features",
+      "attributes": {
+        "class": "x-nav-link x-link",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_5",
+      "description": "a button labeled 'Resources'",
+      "bounding_box": {
+        "x": 830,
+        "y": 126,
+        "width": 229,
+        "height": 104
+      },
+      "element_type": "button",
+      "text_content": "Resources",
+      "attributes": {
+        "class": "x-nav-link x-link",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_6",
+      "description": "the leftmost a link that says 'Plans & Pricing'",
+      "bounding_box": {
+        "x": 1059,
+        "y": 126,
+        "width": 274,
+        "height": 104
+      },
+      "element_type": "a",
+      "text_content": "Plans & Pricing",
+      "attributes": {
+        "class": "x-nav-link x-link",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_7",
+      "description": "the leftmost a link that says 'Log in'",
+      "bounding_box": {
+        "x": 3410,
+        "y": 126,
+        "width": 140,
+        "height": 104
+      },
+      "element_type": "a",
+      "text_content": "Log in",
+      "attributes": {
+        "class": "x-nav-link x-link",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_8",
+      "description": "the rightmost a link that says 'Get started'",
+      "bounding_box": {
+        "x": 3550,
+        "y": 126,
+        "width": 290,
+        "height": 104
+      },
+      "element_type": "a",
+      "text_content": "Get started",
+      "attributes": {
+        "class": "x-nav-link x-nav-link--primary x-nav-link--primary-button-fill x-link",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_67",
+      "description": "the leftmost a link that says 'Get started'",
+      "bounding_box": {
+        "x": 768,
+        "y": 1057,
+        "width": 314,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Get started",
+      "attributes": {
+        "class": "wp-block-button__link wp-element-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_182",
+      "description": "a link that says 'Customize'",
+      "bounding_box": {
+        "x": 2340,
+        "y": 1662,
+        "width": 220,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Customize",
+      "attributes": {
+        "class": "a8c-cookie-banner__customize-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "22_183",
+      "description": "a link that says 'Accept all'",
+      "bounding_box": {
+        "x": 2560,
+        "y": 1662,
+        "width": 220,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Accept all",
+      "attributes": {
+        "class": "a8c-cookie-banner__accept-all-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

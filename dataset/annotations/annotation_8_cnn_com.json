@@ -1,0 +1,628 @@
+{
+  "url": "https://www.cnn.com/",
+  "website_name": "cnn_com",
+  "screenshot_path": "dataset/screenshots/screenshot_8_cnn_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 7640,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "8_23",
+      "description": "a link that says 'US'",
+      "bounding_box": {
+        "x": 780,
+        "y": 552,
+        "width": 40,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "US",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_24",
+      "description": "the rightmost a link that says 'World'",
+      "bounding_box": {
+        "x": 868,
+        "y": 552,
+        "width": 83,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "World",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_25",
+      "description": "a link that says 'Politics'",
+      "bounding_box": {
+        "x": 999,
+        "y": 552,
+        "width": 102,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Politics",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_26",
+      "description": "the leftmost a link that says 'Business'",
+      "bounding_box": {
+        "x": 1148,
+        "y": 552,
+        "width": 127,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Business",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_27",
+      "description": "the leftmost a link that says 'Health'",
+      "bounding_box": {
+        "x": 1323,
+        "y": 552,
+        "width": 92,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Health",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_28",
+      "description": "the leftmost a link that says 'Entertainment'",
+      "bounding_box": {
+        "x": 1463,
+        "y": 552,
+        "width": 204,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Entertainment",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_29",
+      "description": "the rightmost a link that says 'Style'",
+      "bounding_box": {
+        "x": 1715,
+        "y": 552,
+        "width": 71,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Style",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_30",
+      "description": "the rightmost a link that says 'Travel'",
+      "bounding_box": {
+        "x": 1834,
+        "y": 552,
+        "width": 83,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Travel",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_31",
+      "description": "the rightmost a link that says 'Sports'",
+      "bounding_box": {
+        "x": 1965,
+        "y": 552,
+        "width": 94,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Sports",
+      "attributes": {
+        "class": "header__nav-item-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_37",
+      "description": "a link that says 'More'",
+      "bounding_box": {
+        "x": 2106,
+        "y": 552,
+        "width": 130,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "More",
+      "attributes": {
+        "class": "header__nav-item-link header__nav-more-link header__nav-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_52",
+      "description": "the rightmost a link that says 'Watch'",
+      "bounding_box": {
+        "x": 2533,
+        "y": 572,
+        "width": 139,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "Watch",
+      "attributes": {
+        "class": "header__video-link header__video-link-desktop",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_53",
+      "description": "the rightmost a link that says 'Listen'",
+      "bounding_box": {
+        "x": 2720,
+        "y": 572,
+        "width": 134,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "Listen",
+      "attributes": {
+        "class": "header__audio-link header__audio-link-desktop",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_54",
+      "description": "the rightmost a link that says 'Live TV'",
+      "bounding_box": {
+        "x": 2901,
+        "y": 572,
+        "width": 135,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "Live TV",
+      "attributes": {
+        "class": "header__live-tv-link header__live-tv-link-desktop",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_59",
+      "description": "the topmost a button labeled 'Sign in'",
+      "bounding_box": {
+        "x": 3164,
+        "y": 562,
+        "width": 132,
+        "height": 60
+      },
+      "element_type": "button",
+      "text_content": "Sign in",
+      "attributes": {
+        "class": "user-account-nav__text-button user-account-nav__text-button--unauth userAccountButton",
+        "role": "link",
+        "aria-label": "User Account Log In Button",
+        "title": ""
+      }
+    },
+    {
+      "id": "8_200",
+      "description": "a link that says 'South Korean President Yoon Suk Yeol'",
+      "bounding_box": {
+        "x": 643,
+        "y": 696,
+        "width": 615,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "South Korean President Yoon Suk Yeol",
+      "attributes": {
+        "class": "container__link container__link--type-article container_ribbon__link container_ribbon__left container_ribbon__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_201",
+      "description": "a link that says 'Tom Holland'",
+      "bounding_box": {
+        "x": 1258,
+        "y": 696,
+        "width": 233,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "Tom Holland",
+      "attributes": {
+        "class": "container__link container__link--type-article container_ribbon__link container_ribbon__left container_ribbon__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_202",
+      "description": "a link that says 'Las Vegas Cybertruck explosion suspect'",
+      "bounding_box": {
+        "x": 1491,
+        "y": 696,
+        "width": 648,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "Las Vegas Cybertruck explosion suspect",
+      "attributes": {
+        "class": "container__link container__link--type-article container_ribbon__link container_ribbon__left container_ribbon__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_203",
+      "description": "a link that says 'Meghan, Duchess of Sussex'",
+      "bounding_box": {
+        "x": 2139,
+        "y": 696,
+        "width": 466,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "Meghan, Duchess of Sussex",
+      "attributes": {
+        "class": "container__link container__link--type-article container_ribbon__link container_ribbon__left container_ribbon__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_204",
+      "description": "a link that says 'Jennifer Lopez'",
+      "bounding_box": {
+        "x": 2605,
+        "y": 696,
+        "width": 268,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "Jennifer Lopez",
+      "attributes": {
+        "class": "container__link container__link--type-article container_ribbon__link container_ribbon__left container_ribbon__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_205",
+      "description": "a link that says 'Most punctual airlines'",
+      "bounding_box": {
+        "x": 2872,
+        "y": 696,
+        "width": 325,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "Most punctual airlines",
+      "attributes": {
+        "class": "container__link container__link--type-article container_ribbon__link container_ribbon__left container_ribbon__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_206",
+      "description": "a link that says 'Why Trump has so much riding on the US House speaker vote'",
+      "bounding_box": {
+        "x": 544,
+        "y": 910,
+        "width": 1344,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "Why Trump has so much riding on the US House speaker vote",
+      "attributes": {
+        "class": "container__title-url container_lead-package__title-url",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_207",
+      "description": "a link that says 'ANALYSIS\nAndrew Harnik/Getty Images/File'",
+      "bounding_box": {
+        "x": 544,
+        "y": 989,
+        "width": 1344,
+        "height": 804
+      },
+      "element_type": "a",
+      "text_content": "ANALYSIS\nAndrew Harnik/Getty Images/File",
+      "attributes": {
+        "class": "container__link container__link--type-article container_lead-package__link container_lead-package__left container_lead-package__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_209",
+      "description": "a link that says 'Live Updates New Congress will be sworn in today as Johnson faces House speaker vote'",
+      "bounding_box": {
+        "x": 592,
+        "y": 1921,
+        "width": 1296,
+        "height": 89
+      },
+      "element_type": "a",
+      "text_content": "Live Updates New Congress will be sworn in today as Johnson faces House speaker vote",
+      "attributes": {
+        "class": "container__link container__link--type-live-story container_lead-package__link container_lead-package__left container_lead-package__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_210",
+      "description": "a link that says 'What you need to know about the House speaker election'",
+      "bounding_box": {
+        "x": 592,
+        "y": 2034,
+        "width": 1296,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "What you need to know about the House speaker election",
+      "attributes": {
+        "class": "container__link container__link--type-article container_lead-package__link container_lead-package__left container_lead-package__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_211",
+      "description": "a link that says 'Ex-Trump campaign adviser predicts \u2018strong probability\u2019 Johnson won\u2019t be elected speaker 2:12'",
+      "bounding_box": {
+        "x": 592,
+        "y": 2103,
+        "width": 1296,
+        "height": 89
+      },
+      "element_type": "a",
+      "text_content": "Ex-Trump campaign adviser predicts \u2018strong probability\u2019 Johnson won\u2019t be elected speaker 2:12",
+      "attributes": {
+        "class": "container__link container__link--type-video container_lead-package__link container_lead-package__left container_lead-package__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_219",
+      "description": "a link that says '\u2018Mystery volcano\u2019 that erupted and cooled Earth in 1831 has finally been identified'",
+      "bounding_box": {
+        "x": 1936,
+        "y": 1190,
+        "width": 656,
+        "height": 156
+      },
+      "element_type": "a",
+      "text_content": "\u2018Mystery volcano\u2019 that erupted and cooled Earth in 1831 has finally been identified",
+      "attributes": {
+        "class": "container__link container__link--type-article container_lead-package__link container_lead-package__left container_lead-package__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_222",
+      "description": "a link that says 'How an \u2018unimaginable\u2019 truck attack unfolded on one of America\u2019s most famous streets'",
+      "bounding_box": {
+        "x": 1984,
+        "y": 1959,
+        "width": 608,
+        "height": 133
+      },
+      "element_type": "a",
+      "text_content": "How an \u2018unimaginable\u2019 truck attack unfolded on one of America\u2019s most famous streets",
+      "attributes": {
+        "class": "container__link container__link--type-article container_lead-package__link container_lead-package__left container_lead-package__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_234",
+      "description": "a link that says 'Catch up on today\u2019s global news'",
+      "bounding_box": {
+        "x": 2640,
+        "y": 1190,
+        "width": 656,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "Catch up on today\u2019s global news",
+      "attributes": {
+        "class": "container__link container__link--type-video container_lead-plus-headlines-with-images__link container_lead-plus-headlines-with-images__left container_lead-plus-headlines-with-images__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_238",
+      "description": "a link that says 'They all say they\u2019ve got the Holy Grail. So who\u2019s right?'",
+      "bounding_box": {
+        "x": 2900,
+        "y": 1825,
+        "width": 396,
+        "height": 146
+      },
+      "element_type": "a",
+      "text_content": "They all say they\u2019ve got the Holy Grail. So who\u2019s right?",
+      "attributes": {
+        "class": "container__link container__link--type-article container_lead-plus-headlines-with-images__link container_lead-plus-headlines-with-images__left container_lead-plus-headlines-with-images__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_240",
+      "description": "a link that says 'The return of skinny jeans and other surprising fashion trends in 2025'",
+      "bounding_box": {
+        "x": 2900,
+        "y": 2021,
+        "width": 396,
+        "height": 168
+      },
+      "element_type": "a",
+      "text_content": "The return of skinny jeans and other surprising fashion trends in 2025",
+      "attributes": {
+        "class": "container__link container__link--type-article container_lead-plus-headlines-with-images__link container_lead-plus-headlines-with-images__left container_lead-plus-headlines-with-images__light",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_501",
+      "description": "a link that says 'affiliates'",
+      "bounding_box": {
+        "x": 975,
+        "y": 1632,
+        "width": 106,
+        "height": 30
+      },
+      "element_type": "a",
+      "text_content": "affiliates",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_502",
+      "description": "a button labeled 'List of Partners (vendors)'",
+      "bounding_box": {
+        "x": 1874,
+        "y": 1791,
+        "width": 338,
+        "height": 39
+      },
+      "element_type": "button",
+      "text_content": "List of Partners (vendors)",
+      "attributes": {
+        "class": "ot-link-btn onetrust-vendors-list-handler",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_503",
+      "description": "a button labeled 'Accept All'",
+      "bounding_box": {
+        "x": 3526,
+        "y": 1601,
+        "width": 250,
+        "height": 83
+      },
+      "element_type": "button",
+      "text_content": "Accept All",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "8_505",
+      "description": "a button labeled 'Show Purposes'",
+      "bounding_box": {
+        "x": 3526,
+        "y": 1717,
+        "width": 250,
+        "height": 83
+      },
+      "element_type": "button",
+      "text_content": "Show Purposes",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "url": "https://www.github.com/",
+  "website_name": "github_com",
+  "screenshot_path": "dataset/screenshots/screenshot_5_github_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 11140,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "5_1",
+      "description": "a link that says 'Learn more'",
+      "bounding_box": {
+        "x": 2110,
+        "y": 25,
+        "width": 149,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Learn more",
+      "attributes": {
+        "class": "global-banner--link Link--inTextBlock Link--outlineOffset",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_2",
+      "description": "the rightmost a button for Close",
+      "bounding_box": {
+        "x": 3712,
+        "y": 26,
+        "width": 32,
+        "height": 30
+      },
+      "element_type": "button",
+      "text_content": "",
+      "attributes": {
+        "class": "close-button color-fg-on-emphasis",
+        "role": null,
+        "aria-label": "Close",
+        "title": ""
+      }
+    },
+    {
+      "id": "5_7",
+      "description": "a button labeled 'Product'",
+      "bounding_box": {
+        "x": 160,
+        "y": 115,
+        "width": 187,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Product",
+      "attributes": {
+        "class": "HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_20",
+      "description": "a button labeled 'Solutions'",
+      "bounding_box": {
+        "x": 347,
+        "y": 115,
+        "width": 206,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Solutions",
+      "attributes": {
+        "class": "HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_34",
+      "description": "a button labeled 'Resources'",
+      "bounding_box": {
+        "x": 553,
+        "y": 115,
+        "width": 224,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Resources",
+      "attributes": {
+        "class": "HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_45",
+      "description": "a button labeled 'Open Source'",
+      "bounding_box": {
+        "x": 777,
+        "y": 115,
+        "width": 261,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Open Source",
+      "attributes": {
+        "class": "HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_51",
+      "description": "a button labeled 'Enterprise'",
+      "bounding_box": {
+        "x": 1038,
+        "y": 115,
+        "width": 220,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Enterprise",
+      "attributes": {
+        "class": "HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_56",
+      "description": "the leftmost a link that says 'Pricing'",
+      "bounding_box": {
+        "x": 1259,
+        "y": 115,
+        "width": 132,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Pricing",
+      "attributes": {
+        "class": "HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_57",
+      "description": "a button labeled 'Search or jump to...'",
+      "bounding_box": {
+        "x": 2805,
+        "y": 125,
+        "width": 636,
+        "height": 60
+      },
+      "element_type": "button",
+      "text_content": "Search or jump to...",
+      "attributes": {
+        "class": "header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none",
+        "role": null,
+        "aria-label": "Search or jump to\u2026",
+        "title": ""
+      }
+    },
+    {
+      "id": "5_81",
+      "description": "a link that says 'Sign in'",
+      "bounding_box": {
+        "x": 3467,
+        "y": 123,
+        "width": 135,
+        "height": 64
+      },
+      "element_type": "a",
+      "text_content": "Sign in",
+      "attributes": {
+        "class": "HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded rounded-lg-0 px-2 py-1",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_82",
+      "description": "a link that says 'Sign up'",
+      "bounding_box": {
+        "x": 3627,
+        "y": 123,
+        "width": 149,
+        "height": 64
+      },
+      "element_type": "a",
+      "text_content": "Sign up",
+      "attributes": {
+        "class": "HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_90",
+      "description": "a button labeled 'Sign up for GitHub'",
+      "bounding_box": {
+        "x": 1763,
+        "y": 885,
+        "width": 403,
+        "height": 96
+      },
+      "element_type": "button",
+      "text_content": "Sign up for GitHub",
+      "attributes": {
+        "class": "Primer_Brand__Button-module__Button___lDruK Primer_Brand__Button-module__Button--primary___xIC7G Primer_Brand__Button-module__Button--size-medium___EyCyw CtaForm-primaryAction CtaFormControl-button js-hero-action",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "5_91",
+      "description": "a link that says 'Try GitHub Copilot'",
+      "bounding_box": {
+        "x": 2207,
+        "y": 877,
+        "width": 410,
+        "height": 112
+      },
+      "element_type": "a",
+      "text_content": "Try GitHub Copilot",
+      "attributes": {
+        "class": "Primer_Brand__Button-module__Button___lDruK Primer_Brand__Button-module__Button--secondary___akMC2 Primer_Brand__Button-module__Button--size-medium___EyCyw CtaForm-secondaryAction CtaForm-nextToFormAction js-hero-action",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

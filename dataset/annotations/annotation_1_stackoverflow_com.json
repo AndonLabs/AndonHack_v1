@@ -1,0 +1,304 @@
+{
+  "url": "https://stackoverflow.com/",
+  "website_name": "stackoverflow_com",
+  "screenshot_path": "dataset/screenshots/screenshot_1_stackoverflow_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 3030,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "1_27",
+      "description": "a link that says 'Stack Overflow'",
+      "bounding_box": {
+        "x": 656,
+        "y": 6,
+        "width": 332,
+        "height": 104
+      },
+      "element_type": "a",
+      "text_content": "Stack Overflow",
+      "attributes": {
+        "class": "s-topbar--logo js-gps-track",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_28",
+      "description": "the leftmost a link that says 'About'",
+      "bounding_box": {
+        "x": 988,
+        "y": 29,
+        "width": 121,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "About",
+      "attributes": {
+        "class": "s-navigation--item js-gps-track",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_29",
+      "description": "a button labeled 'Products'",
+      "bounding_box": {
+        "x": 1117,
+        "y": 29,
+        "width": 157,
+        "height": 58
+      },
+      "element_type": "button",
+      "text_content": "Products",
+      "attributes": {
+        "class": "s-navigation--item js-gps-track",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_30",
+      "description": "a link that says 'OverflowAI'",
+      "bounding_box": {
+        "x": 1282,
+        "y": 29,
+        "width": 179,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "OverflowAI",
+      "attributes": {
+        "class": "s-navigation--item js-gps-track",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_50",
+      "description": "a link that says 'Log in'",
+      "bounding_box": {
+        "x": 2896,
+        "y": 25,
+        "width": 119,
+        "height": 66
+      },
+      "element_type": "a",
+      "text_content": "Log in",
+      "attributes": {
+        "class": "s-topbar--item s-topbar--item__unset s-btn s-btn__outlined ws-nowrap js-gps-track",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_51",
+      "description": "the rightmost a link that says 'Sign up'",
+      "bounding_box": {
+        "x": 3023,
+        "y": 25,
+        "width": 137,
+        "height": 66
+      },
+      "element_type": "a",
+      "text_content": "Sign up",
+      "attributes": {
+        "class": "s-topbar--item s-topbar--item__unset ml4 s-btn s-btn__filled ws-nowrap js-signup-button js-gps-track",
+        "role": "menuitem",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1695",
+      "description": "the leftmost a link that says 'Sign up'",
+      "bounding_box": {
+        "x": 1128,
+        "y": 578,
+        "width": 137,
+        "height": 76
+      },
+      "element_type": "a",
+      "text_content": "Sign up",
+      "attributes": {
+        "class": "flex--item sm:mt8 s-btn s-btn__filled",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1696",
+      "description": "a link that says 'Visit the community'",
+      "bounding_box": {
+        "x": 1281,
+        "y": 578,
+        "width": 319,
+        "height": 76
+      },
+      "element_type": "a",
+      "text_content": "Visit the community",
+      "attributes": {
+        "class": "flex--item ml8 sm:ml0 sm:mt8 s-btn",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1697",
+      "description": "a link that says 'Full business solutions'",
+      "bounding_box": {
+        "x": 2841,
+        "y": 825,
+        "width": 319,
+        "height": 76
+      },
+      "element_type": "a",
+      "text_content": "Full business solutions",
+      "attributes": {
+        "class": "s-btn s-btn__outlined sm:d-block sm:w100",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1698",
+      "description": "a link that says 'Explore Teams'",
+      "bounding_box": {
+        "x": 1098,
+        "y": 1252,
+        "width": 258,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "Explore Teams",
+      "attributes": {
+        "class": "flex--item s-btn s-btn__filled py6 px12 mr8 sm:mr0",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1699",
+      "description": "a link that says 'Try for free'",
+      "bounding_box": {
+        "x": 1372,
+        "y": 1252,
+        "width": 192,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "Try for free",
+      "attributes": {
+        "class": "flex--item s-btn s-link s-link__underlined p6",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1700",
+      "description": "a link that says 'Supercharge your Team'",
+      "bounding_box": {
+        "x": 1098,
+        "y": 1733,
+        "width": 370,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "Supercharge your Team",
+      "attributes": {
+        "class": "flex--item s-btn s-btn__filled py6 px12 sm:mr0fc-white bg-orange-400 d:fc-black h:bg-orange-500 p6",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1755",
+      "description": "the leftmost a link that says 'Cookie Policy'",
+      "bounding_box": {
+        "x": 146,
+        "y": 986,
+        "width": 157,
+        "height": 30
+      },
+      "element_type": "a",
+      "text_content": "Cookie Policy",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1756",
+      "description": "a button labeled 'List of Partners (vendors)'",
+      "bounding_box": {
+        "x": 146,
+        "y": 1642,
+        "width": 326,
+        "height": 39
+      },
+      "element_type": "button",
+      "text_content": "List of Partners (vendors)",
+      "attributes": {
+        "class": "ot-link-btn onetrust-vendors-list-handler",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1757",
+      "description": "a button labeled 'Accept all cookies'",
+      "bounding_box": {
+        "x": 96,
+        "y": 1732,
+        "width": 338,
+        "height": 76
+      },
+      "element_type": "button",
+      "text_content": "Accept all cookies",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "1_1758",
+      "description": "a button labeled 'Necessary cookies only'",
+      "bounding_box": {
+        "x": 450,
+        "y": 1732,
+        "width": 338,
+        "height": 76
+      },
+      "element_type": "button",
+      "text_content": "Necessary cookies only",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

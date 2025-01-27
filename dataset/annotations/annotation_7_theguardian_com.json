@@ -1,0 +1,52 @@
+{
+  "url": "https://www.theguardian.com/",
+  "website_name": "theguardian_com",
+  "screenshot_path": "dataset/screenshots/screenshot_7_theguardian_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "7_0",
+      "description": "a link that says 'Skip to main content'",
+      "bounding_box": {
+        "x": 0,
+        "y": -80,
+        "width": 314,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Skip to main content",
+      "attributes": {
+        "class": "dcr-1gpubb",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "7_1",
+      "description": "a link that says 'Skip to navigation'",
+      "bounding_box": {
+        "x": 0,
+        "y": -80,
+        "width": 273,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Skip to navigation",
+      "attributes": {
+        "class": "dcr-1gpubb",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

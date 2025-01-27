@@ -1,0 +1,502 @@
+{
+  "url": "https://www.reddit.com/",
+  "website_name": "reddit_com",
+  "screenshot_path": "dataset/screenshots/screenshot_12_reddit_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 14256,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "12_1",
+      "description": "a link that says 'Cookie Notice'",
+      "bounding_box": {
+        "x": 515,
+        "y": 400,
+        "width": 181,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Cookie Notice",
+      "attributes": {
+        "class": "text-action-secondary no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_2",
+      "description": "the rightmost a link that says 'Privacy Policy'",
+      "bounding_box": {
+        "x": 810,
+        "y": 400,
+        "width": 177,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Privacy Policy",
+      "attributes": {
+        "class": "text-action-secondary no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_5",
+      "description": "a button labeled 'Get App'",
+      "bounding_box": {
+        "x": 3345,
+        "y": 16,
+        "width": 218,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Get App",
+      "attributes": {
+        "class": "\nbutton-medium pl-[var(--rem10)] pr-[var(--rem14)]\nbutton-secondary\n\n\n\nitems-center justify-center\nbutton inline-flex ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_6",
+      "description": "a link that says 'Log In'",
+      "bounding_box": {
+        "x": 3578,
+        "y": 16,
+        "width": 134,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Log In",
+      "attributes": {
+        "class": "px-sm hover:no-underline\nbutton-medium px-[var(--rem14)]\nbutton-brand\n\n\n\nitems-center justify-center\nbutton inline-flex ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_7",
+      "description": "a button labeled 'Expand user menu'",
+      "bounding_box": {
+        "x": 3728,
+        "y": 16,
+        "width": 80,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Expand user menu",
+      "attributes": {
+        "class": " min-w-[40px]\nbutton-medium px-[var(--rem8)]\nbutton-plain\n\n\nicon\nitems-center justify-center\nbutton inline-flex ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_11",
+      "description": "a link that says 'College Football Playoff\n[Front Office Sports] Every team that made the College Football Playoff semi-final has earned $14M in payouts for their conferences. As an independent, Notre Dame's win over Georgia just put the Fighting Irish at $14M, too\u2014all for themselves.\nr/CFB\nand more'",
+      "bounding_box": {
+        "x": 1120,
+        "y": 632,
+        "width": 560,
+        "height": 420
+      },
+      "element_type": "a",
+      "text_content": "College Football Playoff\n[Front Office Sports] Every team that made the College Football Playoff semi-final has earned $14M in payouts for their conferences. As an independent, Notre Dame's win over Georgia just put the Fighting Irish at $14M, too\u2014all for themselves.\nr/CFB\nand more",
+      "attributes": {
+        "class": "block hover:no-underline relative w-[280px]",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_12",
+      "description": "a link that says 'Tom Holland interview\nTom Holland Says He'll Take a Step Back from Acting When He Has Kids: 'You Will Not See Me in Movies Anymore'\nr/entertainment\nand more'",
+      "bounding_box": {
+        "x": 1712,
+        "y": 632,
+        "width": 560,
+        "height": 420
+      },
+      "element_type": "a",
+      "text_content": "Tom Holland interview\nTom Holland Says He'll Take a Step Back from Acting When He Has Kids: 'You Will Not See Me in Movies Anymore'\nr/entertainment\nand more",
+      "attributes": {
+        "class": "block hover:no-underline relative w-[280px]",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_13",
+      "description": "a link that says 'Cybertruck explosion update\nDriver of Tesla Cybertruck in Las Vegas blast identified as US army veteran\nr/news\nand more'",
+      "bounding_box": {
+        "x": 2304,
+        "y": 632,
+        "width": 560,
+        "height": 420
+      },
+      "element_type": "a",
+      "text_content": "Cybertruck explosion update\nDriver of Tesla Cybertruck in Las Vegas blast identified as US army veteran\nr/news\nand more",
+      "attributes": {
+        "class": "block hover:no-underline relative w-[280px]",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_14",
+      "description": "a link that says 'Nick Clegg leaves Meta\nNick Clegg has stepped down as President of Global Policy at Meta\nr/ukpolitics\nand more'",
+      "bounding_box": {
+        "x": 2896,
+        "y": 632,
+        "width": 560,
+        "height": 420
+      },
+      "element_type": "a",
+      "text_content": "Nick Clegg leaves Meta\nNick Clegg has stepped down as President of Global Policy at Meta\nr/ukpolitics\nand more",
+      "attributes": {
+        "class": "block hover:no-underline relative w-[280px]",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_60",
+      "description": "the leftmost a link that says 'Fel att neka jobb till muslimsk man som v\u00e4grar ta kvinnor i hand'",
+      "bounding_box": {
+        "x": 1120,
+        "y": 1158,
+        "width": 1464,
+        "height": 360
+      },
+      "element_type": "a",
+      "text_content": "Fel att neka jobb till muslimsk man som v\u00e4grar ta kvinnor i hand",
+      "attributes": {
+        "class": "absolute inset-0",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_61",
+      "description": "the topmost a link that says 'r/sweden'",
+      "bounding_box": {
+        "x": 1152,
+        "y": 1158,
+        "width": 168,
+        "height": 64
+      },
+      "element_type": "a",
+      "text_content": "r/sweden",
+      "attributes": {
+        "class": "text-neutral-content whitespace-nowrap flex items-center h-xl a cursor-pointer\n  \n  text-12\n  font-semibold\n  no-visited\n  no-underline hover:no-underline\n  ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_64",
+      "description": "a link that says 'https://www.expressen.se/nyheter/sverige/fel-att-neka-jobb-till-muslimsk-man-som-vagrar-ta-kvinnor-i-hand/'",
+      "bounding_box": {
+        "x": 1152,
+        "y": 1297,
+        "width": 1503,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "https://www.expressen.se/nyheter/sverige/fel-att-neka-jobb-till-muslimsk-man-som-vagrar-ta-kvinnor-i-hand/",
+      "attributes": {
+        "class": "post-link max-w-full truncate a cursor-pointer\n  \n  \n  \n  \n  hover:underline\n  ",
+        "role": null,
+        "aria-label": null,
+        "title": "Link from r/sweden - Fel att neka jobb till muslimsk man som v\u00e4grar ta kvinnor i hand"
+      }
+    },
+    {
+      "id": "12_66",
+      "description": "the topmost a link that says 'u/weightwatchers'",
+      "bounding_box": {
+        "x": 1152,
+        "y": 1552,
+        "width": 271,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "u/weightwatchers",
+      "attributes": {
+        "class": "advertiser-name flex items-center relative overflow-hidden h-lg text-neutral-content a cursor-pointer\n  \n  \n  font-semibold\n  no-visited\n  no-underline hover:no-underline\n  ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_201",
+      "description": "a link that says 'r/AskReddit\n50,246,092 members'",
+      "bounding_box": {
+        "x": 2664,
+        "y": 1184,
+        "width": 568,
+        "height": 112
+      },
+      "element_type": "a",
+      "text_content": "r/AskReddit\n50,246,092 members",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_202",
+      "description": "a link that says 'r/leagueoflegends\n7,873,139 members'",
+      "bounding_box": {
+        "x": 2664,
+        "y": 1296,
+        "width": 568,
+        "height": 112
+      },
+      "element_type": "a",
+      "text_content": "r/leagueoflegends\n7,873,139 members",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_203",
+      "description": "a link that says 'r/OutOfTheLoop\n3,427,927 members'",
+      "bounding_box": {
+        "x": 2664,
+        "y": 1408,
+        "width": 568,
+        "height": 112
+      },
+      "element_type": "a",
+      "text_content": "r/OutOfTheLoop\n3,427,927 members",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_204",
+      "description": "a link that says 'r/discordapp\n1,186,404 members'",
+      "bounding_box": {
+        "x": 2664,
+        "y": 1520,
+        "width": 568,
+        "height": 112
+      },
+      "element_type": "a",
+      "text_content": "r/discordapp\n1,186,404 members",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_205",
+      "description": "a link that says 'r/Twitch\n2,708,248 members'",
+      "bounding_box": {
+        "x": 2664,
+        "y": 1632,
+        "width": 568,
+        "height": 112
+      },
+      "element_type": "a",
+      "text_content": "r/Twitch\n2,708,248 members",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_221",
+      "description": "a button labeled 'See more'",
+      "bounding_box": {
+        "x": 2664,
+        "y": 1744,
+        "width": 155,
+        "height": 64
+      },
+      "element_type": "button",
+      "text_content": "See more",
+      "attributes": {
+        "class": "\nbutton-small px-[var(--rem10)]\nbutton-plain\n\n\n\nitems-center justify-center\nbutton inline-flex ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_275",
+      "description": "a link that says 'About Reddit'",
+      "bounding_box": {
+        "x": 32,
+        "y": 1564,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "About Reddit",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_276",
+      "description": "a link that says 'Advertise'",
+      "bounding_box": {
+        "x": 32,
+        "y": 1644,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Advertise",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_277",
+      "description": "a link that says 'Help'",
+      "bounding_box": {
+        "x": 32,
+        "y": 1724,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Help",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_278",
+      "description": "a link that says 'Blog'",
+      "bounding_box": {
+        "x": 32,
+        "y": 1804,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Blog",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_279",
+      "description": "a link that says 'Careers'",
+      "bounding_box": {
+        "x": 32,
+        "y": 1884,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Careers",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_280",
+      "description": "a link that says 'Press'",
+      "bounding_box": {
+        "x": 32,
+        "y": 1964,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Press",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_281",
+      "description": "a link that says 'Communities'",
+      "bounding_box": {
+        "x": 32,
+        "y": 2094,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Communities",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "12_282",
+      "description": "a link that says 'Best of Reddit'",
+      "bounding_box": {
+        "x": 32,
+        "y": 2174,
+        "width": 478,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Best of Reddit",
+      "attributes": {
+        "class": "flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-2xs  -outline-offset-1  s:rounded-[8px] bg-transparent no-underline",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

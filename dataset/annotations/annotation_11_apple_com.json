@@ -1,0 +1,268 @@
+{
+  "url": "https://www.apple.com/",
+  "website_name": "apple_com",
+  "screenshot_path": "dataset/screenshots/screenshot_11_apple_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 6043,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "11_3",
+      "description": "a link that says 'Forts\u00e4tt'",
+      "bounding_box": {
+        "x": 2676,
+        "y": 34,
+        "width": 164,
+        "height": 72
+      },
+      "element_type": "a",
+      "text_content": "Forts\u00e4tt",
+      "attributes": {
+        "class": "ac-ls-button ac-ls-actions-item ac-ls-continue",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "11_6",
+      "description": "a link that says 'Apple'",
+      "bounding_box": {
+        "x": 924,
+        "y": 140,
+        "width": 60,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Apple",
+      "attributes": {
+        "class": "globalnav-link globalnav-link-apple",
+        "role": null,
+        "aria-label": "Apple",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_7",
+      "description": "the rightmost a link that says 'Store'",
+      "bounding_box": {
+        "x": 1022,
+        "y": 140,
+        "width": 92,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Store",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-store",
+        "role": null,
+        "aria-label": "Store",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_25",
+      "description": "the rightmost a link that says 'Mac'",
+      "bounding_box": {
+        "x": 1153,
+        "y": 140,
+        "width": 78,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Mac",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-mac",
+        "role": null,
+        "aria-label": "Mac",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_51",
+      "description": "the rightmost a link that says 'iPad'",
+      "bounding_box": {
+        "x": 1269,
+        "y": 140,
+        "width": 80,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "iPad",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-ipad",
+        "role": null,
+        "aria-label": "iPad",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_73",
+      "description": "the rightmost a link that says 'iPhone'",
+      "bounding_box": {
+        "x": 1387,
+        "y": 140,
+        "width": 108,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "iPhone",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-iphone",
+        "role": null,
+        "aria-label": "iPhone",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_97",
+      "description": "the rightmost a link that says 'Watch'",
+      "bounding_box": {
+        "x": 1533,
+        "y": 140,
+        "width": 102,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Watch",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-watch",
+        "role": null,
+        "aria-label": "Watch",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_119",
+      "description": "the rightmost a link that says 'Vision'",
+      "bounding_box": {
+        "x": 1674,
+        "y": 140,
+        "width": 100,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Vision",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-vision",
+        "role": null,
+        "aria-label": "Vision",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_131",
+      "description": "the rightmost a link that says 'AirPods'",
+      "bounding_box": {
+        "x": 1812,
+        "y": 140,
+        "width": 118,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "AirPods",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-airpods",
+        "role": null,
+        "aria-label": "AirPods",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_144",
+      "description": "the rightmost a link that says 'TV & Home'",
+      "bounding_box": {
+        "x": 1968,
+        "y": 140,
+        "width": 162,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "TV & Home",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-tv-home",
+        "role": null,
+        "aria-label": "TV and Home",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_164",
+      "description": "a link that says 'Entertainment'",
+      "bounding_box": {
+        "x": 2169,
+        "y": 140,
+        "width": 186,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Entertainment",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-entertainment",
+        "role": null,
+        "aria-label": "Entertainment",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_178",
+      "description": "the rightmost a link that says 'Accessories'",
+      "bounding_box": {
+        "x": 2393,
+        "y": 140,
+        "width": 166,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Accessories",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-accessories",
+        "role": null,
+        "aria-label": "Accessories",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_191",
+      "description": "a link that says 'Support'",
+      "bounding_box": {
+        "x": 2597,
+        "y": 140,
+        "width": 120,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Support",
+      "attributes": {
+        "class": "globalnav-link globalnav-submenu-trigger-link globalnav-link-support",
+        "role": null,
+        "aria-label": "Support",
+        "title": ""
+      }
+    },
+    {
+      "id": "11_223",
+      "description": "the topmost a link that says 'Learn more'",
+      "bounding_box": {
+        "x": 1789,
+        "y": 1414,
+        "width": 261,
+        "height": 88
+      },
+      "element_type": "a",
+      "text_content": "Learn more",
+      "attributes": {
+        "class": "button button-elevated button-primary learn-more",
+        "role": null,
+        "aria-label": "Learn more, Apple Fitness Plus",
+        "title": ""
+      }
+    }
+  ]
+}

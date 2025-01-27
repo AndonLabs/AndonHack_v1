@@ -1,0 +1,286 @@
+{
+  "url": "https://www.youtube.com/",
+  "website_name": "youtube_com",
+  "screenshot_path": "dataset/screenshots/screenshot_17_youtube_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "17_67",
+      "description": "a link that says 'Settings'",
+      "bounding_box": {
+        "x": 24,
+        "y": 1906,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Settings",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": "Settings"
+      }
+    },
+    {
+      "id": "17_68",
+      "description": "an element containing the text 'Settings'",
+      "bounding_box": {
+        "x": 24,
+        "y": 1906,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "tp-yt-paper-item",
+      "text_content": "Settings",
+      "attributes": {
+        "class": "style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "17_69",
+      "description": "a link that says 'Report history'",
+      "bounding_box": {
+        "x": 24,
+        "y": 1986,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Report history",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": "Report history"
+      }
+    },
+    {
+      "id": "17_70",
+      "description": "an element containing the text 'Report history'",
+      "bounding_box": {
+        "x": 24,
+        "y": 1986,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "tp-yt-paper-item",
+      "text_content": "Report history",
+      "attributes": {
+        "class": "style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "17_71",
+      "description": "a link that says 'Help'",
+      "bounding_box": {
+        "x": 24,
+        "y": 2066,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Help",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": "Help"
+      }
+    },
+    {
+      "id": "17_72",
+      "description": "an element containing the text 'Help'",
+      "bounding_box": {
+        "x": 24,
+        "y": 2066,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "tp-yt-paper-item",
+      "text_content": "Help",
+      "attributes": {
+        "class": "style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "17_73",
+      "description": "a link that says 'Send feedback'",
+      "bounding_box": {
+        "x": 24,
+        "y": 2146,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Send feedback",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": "Send feedback"
+      }
+    },
+    {
+      "id": "17_74",
+      "description": "an element containing the text 'Send feedback'",
+      "bounding_box": {
+        "x": 24,
+        "y": 2146,
+        "width": 408,
+        "height": 80
+      },
+      "element_type": "tp-yt-paper-item",
+      "text_content": "Send feedback",
+      "attributes": {
+        "class": "style-scope ytd-guide-entry-renderer",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "17_162",
+      "description": "a button labeled 'en'",
+      "bounding_box": {
+        "x": 2152,
+        "y": 161,
+        "width": 143,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "en",
+      "attributes": {
+        "class": "yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading",
+        "role": null,
+        "aria-label": "English",
+        "title": ""
+      }
+    },
+    {
+      "id": "17_165",
+      "description": "a link that says 'cookies'",
+      "bounding_box": {
+        "x": 1414,
+        "y": 441,
+        "width": 97,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "cookies",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope yt-formatted-string",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "17_166",
+      "description": "a button labeled 'Reject all'",
+      "bounding_box": {
+        "x": 1830,
+        "y": 1553,
+        "width": 179,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Reject all",
+      "attributes": {
+        "class": "yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m",
+        "role": null,
+        "aria-label": "Reject the use of cookies and other data for the purposes described",
+        "title": ""
+      }
+    },
+    {
+      "id": "17_167",
+      "description": "a button labeled 'Accept all'",
+      "bounding_box": {
+        "x": 2049,
+        "y": 1553,
+        "width": 188,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Accept all",
+      "attributes": {
+        "class": "yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m",
+        "role": null,
+        "aria-label": "Accept the use of cookies and other data for the purposes described",
+        "title": ""
+      }
+    },
+    {
+      "id": "17_168",
+      "description": "a link that says 'More options'",
+      "bounding_box": {
+        "x": 2278,
+        "y": 1553,
+        "width": 230,
+        "height": 72
+      },
+      "element_type": "a",
+      "text_content": "More options",
+      "attributes": {
+        "class": "yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m",
+        "role": null,
+        "aria-label": "More options",
+        "title": ""
+      }
+    },
+    {
+      "id": "17_169",
+      "description": "a link that says 'Privacy Policy'",
+      "bounding_box": {
+        "x": 1316,
+        "y": 1681,
+        "width": 172,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "Privacy Policy",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope yt-formatted-string",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "17_170",
+      "description": "a link that says 'Terms of Service'",
+      "bounding_box": {
+        "x": 1544,
+        "y": 1681,
+        "width": 209,
+        "height": 40
+      },
+      "element_type": "a",
+      "text_content": "Terms of Service",
+      "attributes": {
+        "class": "yt-simple-endpoint style-scope yt-formatted-string",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

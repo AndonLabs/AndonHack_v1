@@ -1,0 +1,538 @@
+{
+  "url": "https://www.microsoft.com/",
+  "website_name": "microsoft_com",
+  "screenshot_path": "dataset/screenshots/screenshot_10_microsoft_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 3465,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "10_0",
+      "description": "a link that says 'Sekretesspolicy'",
+      "bounding_box": {
+        "x": 441,
+        "y": 78,
+        "width": 175,
+        "height": 35
+      },
+      "element_type": "a",
+      "text_content": "Sekretesspolicy",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_1",
+      "description": "a link that says 'Tredjepartcookies'",
+      "bounding_box": {
+        "x": 623,
+        "y": 78,
+        "width": 204,
+        "height": 35
+      },
+      "element_type": "a",
+      "text_content": "Tredjepartcookies",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_2",
+      "description": "a button labeled 'Godk\u00e4nn'",
+      "bounding_box": {
+        "x": 2690,
+        "y": 28,
+        "width": 300,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Godk\u00e4nn",
+      "attributes": {
+        "class": "_1XuCi2WhiqeWRUVp3pnFG3 erL690_8JwUW-R4bJRcfl",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_3",
+      "description": "a button labeled 'Neka'",
+      "bounding_box": {
+        "x": 3015,
+        "y": 28,
+        "width": 300,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Neka",
+      "attributes": {
+        "class": "_1XuCi2WhiqeWRUVp3pnFG3 erL690_8JwUW-R4bJRcfl",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_4",
+      "description": "a button labeled 'Hantera cookies'",
+      "bounding_box": {
+        "x": 3340,
+        "y": 28,
+        "width": 300,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Hantera cookies",
+      "attributes": {
+        "class": "_1XuCi2WhiqeWRUVp3pnFG3 erL690_8JwUW-R4bJRcfl",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_8",
+      "description": "a link that says 'Microsoft'",
+      "bounding_box": {
+        "x": 320,
+        "y": 130,
+        "width": 274,
+        "height": 108
+      },
+      "element_type": "a",
+      "text_content": "Microsoft",
+      "attributes": {
+        "class": "c-logo c-sgl-stk-uhfLogo",
+        "role": null,
+        "aria-label": "Microsoft",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_11",
+      "description": "the topmost a link that says 'Microsoft 365'",
+      "bounding_box": {
+        "x": 606,
+        "y": 130,
+        "width": 194,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Microsoft 365",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_12",
+      "description": "a link that says 'Teams'",
+      "bounding_box": {
+        "x": 823,
+        "y": 130,
+        "width": 110,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Teams",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_13",
+      "description": "a link that says 'Copilot'",
+      "bounding_box": {
+        "x": 956,
+        "y": 130,
+        "width": 119,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Copilot",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_14",
+      "description": "a link that says 'Windows'",
+      "bounding_box": {
+        "x": 1099,
+        "y": 130,
+        "width": 142,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Windows",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_15",
+      "description": "a link that says 'Surface'",
+      "bounding_box": {
+        "x": 1264,
+        "y": 130,
+        "width": 121,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Surface",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_16",
+      "description": "a link that says 'Xbox'",
+      "bounding_box": {
+        "x": 1407,
+        "y": 130,
+        "width": 94,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Xbox",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_17",
+      "description": "a link that says 'Specialerbjudanden'",
+      "bounding_box": {
+        "x": 1524,
+        "y": 130,
+        "width": 262,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Specialerbjudanden",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_18",
+      "description": "the leftmost a link that says 'Sm\u00e5 f\u00f6retag'",
+      "bounding_box": {
+        "x": 1810,
+        "y": 130,
+        "width": 176,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Sm\u00e5 f\u00f6retag",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_19",
+      "description": "a link that says 'Support'",
+      "bounding_box": {
+        "x": 2009,
+        "y": 130,
+        "width": 128,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Support",
+      "attributes": {
+        "class": "c-uhf-nav-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_21",
+      "description": "a button labeled 'Hela Microsoft'",
+      "bounding_box": {
+        "x": 2656,
+        "y": 130,
+        "width": 250,
+        "height": 107
+      },
+      "element_type": "button",
+      "text_content": "Hela Microsoft",
+      "attributes": {
+        "class": "c-button-logo all-ms-nav",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_73",
+      "description": "a button labeled 'S\u00f6k'",
+      "bounding_box": {
+        "x": 2910,
+        "y": 134,
+        "width": 121,
+        "height": 90
+      },
+      "element_type": "button",
+      "text_content": "S\u00f6k",
+      "attributes": {
+        "class": "c-glyph",
+        "role": null,
+        "aria-label": "S\u00f6k p\u00e5 Microsoft.com",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_75",
+      "description": "a link that says 'Kundvagn'",
+      "bounding_box": {
+        "x": 3124,
+        "y": 130,
+        "width": 160,
+        "height": 94
+      },
+      "element_type": "a",
+      "text_content": "Kundvagn",
+      "attributes": {
+        "class": "c-action-trigger c-glyph c-uhf-nav-link glyph-shopping-cart",
+        "role": null,
+        "aria-label": "0 varor i kundvagnen",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_76",
+      "description": "a link that says 'Logga in p\u00e5 ditt konto\nLogga in'",
+      "bounding_box": {
+        "x": 3291,
+        "y": 134,
+        "width": 229,
+        "height": 96
+      },
+      "element_type": "a",
+      "text_content": "Logga in p\u00e5 ditt konto\nLogga in",
+      "attributes": {
+        "class": "mectrl_resetStyle mectrl_trigger",
+        "role": null,
+        "aria-label": "Logga in p\u00e5 ditt konto",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_78",
+      "description": "a button labeled 'Pause'",
+      "bounding_box": {
+        "x": 1704,
+        "y": 1464,
+        "width": 88,
+        "height": 88
+      },
+      "element_type": "button",
+      "text_content": "Pause",
+      "attributes": {
+        "class": "carousel-control-autoplay playing",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "10_79",
+      "description": "a button labeled 'F\u00f6reg\u00e5ende'",
+      "bounding_box": {
+        "x": 1792,
+        "y": 1464,
+        "width": 88,
+        "height": 88
+      },
+      "element_type": "button",
+      "text_content": "F\u00f6reg\u00e5ende",
+      "attributes": {
+        "class": "carousel-control-prev",
+        "role": null,
+        "aria-label": null,
+        "title": "F\u00f6reg\u00e5ende"
+      }
+    },
+    {
+      "id": "10_80",
+      "description": "a button labeled 'N\u00e4sta'",
+      "bounding_box": {
+        "x": 2048,
+        "y": 1464,
+        "width": 88,
+        "height": 88
+      },
+      "element_type": "button",
+      "text_content": "N\u00e4sta",
+      "attributes": {
+        "class": "carousel-control-next",
+        "role": null,
+        "aria-label": null,
+        "title": "N\u00e4sta"
+      }
+    },
+    {
+      "id": "10_82",
+      "description": "a link that says 'K\u00f6p Xbox handkontroller'",
+      "bounding_box": {
+        "x": 416,
+        "y": 936,
+        "width": 422,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "K\u00f6p Xbox handkontroller",
+      "attributes": {
+        "class": " btn btn-primary   ",
+        "role": " ",
+        "aria-label": "K\u00f6p Xbox handkontroller",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_84",
+      "description": "a link that says 'K\u00f6p Surface-enheter'",
+      "bounding_box": {
+        "x": 771,
+        "y": 1792,
+        "width": 299,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "K\u00f6p Surface-enheter",
+      "attributes": {
+        "class": " ",
+        "role": " ",
+        "aria-label": "K\u00f6p Surface-enheter",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_85",
+      "description": "a link that says 'K\u00f6p Xbox-spel och konsoler'",
+      "bounding_box": {
+        "x": 1166,
+        "y": 1792,
+        "width": 407,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "K\u00f6p Xbox-spel och konsoler",
+      "attributes": {
+        "class": " ",
+        "role": " ",
+        "aria-label": "K\u00f6p Xbox-spel och konsoler",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_86",
+      "description": "a link that says 'V\u00e4lj ditt Microsoft 365'",
+      "bounding_box": {
+        "x": 1670,
+        "y": 1792,
+        "width": 324,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "V\u00e4lj ditt Microsoft 365",
+      "attributes": {
+        "class": " ",
+        "role": " ",
+        "aria-label": "V\u00e4lj ditt Microsoft 365",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_87",
+      "description": "a link that says 'Skaffa Windows 11'",
+      "bounding_box": {
+        "x": 2089,
+        "y": 1792,
+        "width": 267,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "Skaffa Windows 11",
+      "attributes": {
+        "class": " ",
+        "role": " ",
+        "aria-label": "Skaffa Windows 11",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_88",
+      "description": "a link that says 'K\u00f6p tillbeh\u00f6r'",
+      "bounding_box": {
+        "x": 2453,
+        "y": 1792,
+        "width": 189,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "K\u00f6p tillbeh\u00f6r",
+      "attributes": {
+        "class": " ",
+        "role": " ",
+        "aria-label": "K\u00f6p tillbeh\u00f6r i Microsoft Store",
+        "title": ""
+      }
+    },
+    {
+      "id": "10_89",
+      "description": "a link that says 'Shoppa till ditt f\u00f6retag'",
+      "bounding_box": {
+        "x": 2738,
+        "y": 1792,
+        "width": 331,
+        "height": 48
+      },
+      "element_type": "a",
+      "text_content": "Shoppa till ditt f\u00f6retag",
+      "attributes": {
+        "class": " ",
+        "role": " ",
+        "aria-label": "K\u00f6p f\u00f6retagsprodukter",
+        "title": ""
+      }
+    }
+  ]
+}

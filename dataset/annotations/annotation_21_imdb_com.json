@@ -1,0 +1,286 @@
+{
+  "url": "https://www.imdb.com/",
+  "website_name": "imdb_com",
+  "screenshot_path": "dataset/screenshots/screenshot_21_imdb_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 4694,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "21_66",
+      "description": "the rightmost a text input field with placeholder 'Search IMDb'",
+      "bounding_box": {
+        "x": 1135,
+        "y": 25,
+        "width": 1211,
+        "height": 62
+      },
+      "element_type": "input",
+      "text_content": "",
+      "attributes": {
+        "class": "imdb-header-search__input searchTypeahead__input react-autosuggest__input",
+        "role": null,
+        "aria-label": "Search IMDb",
+        "title": ""
+      }
+    },
+    {
+      "id": "21_67",
+      "description": "the rightmost a button for Submit Search",
+      "bounding_box": {
+        "x": 2383,
+        "y": 31,
+        "width": 64,
+        "height": 51
+      },
+      "element_type": "button",
+      "text_content": "",
+      "attributes": {
+        "class": "nav-search__search-submit searchform__submit",
+        "role": null,
+        "aria-label": "Submit Search",
+        "title": ""
+      }
+    },
+    {
+      "id": "21_70",
+      "description": "a link that says 'Watchlist'",
+      "bounding_box": {
+        "x": 2678,
+        "y": 20,
+        "width": 231,
+        "height": 72
+      },
+      "element_type": "a",
+      "text_content": "Watchlist",
+      "attributes": {
+        "class": "ipc-btn ipc-btn--single-padding ipc-btn--center-align-content ipc-btn--default-height ipc-btn--core-baseAlt ipc-btn--theme-baseAlt ipc-btn--button-radius ipc-btn--on-textPrimary ipc-text-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_71",
+      "description": "a link that says 'Sign In'",
+      "bounding_box": {
+        "x": 2908,
+        "y": 20,
+        "width": 155,
+        "height": 72
+      },
+      "element_type": "a",
+      "text_content": "Sign In",
+      "attributes": {
+        "class": "ipc-btn ipc-btn--single-padding ipc-btn--center-align-content ipc-btn--default-height ipc-btn--core-baseAlt ipc-btn--theme-baseAlt ipc-btn--button-radius ipc-btn--on-textPrimary ipc-text-button imdb-header__signin-text",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_88",
+      "description": "the leftmost an element containing the text 'sponsored' in small text",
+      "bounding_box": {
+        "x": 2741,
+        "y": 636,
+        "width": 149,
+        "height": 28
+      },
+      "element_type": "span",
+      "text_content": "sponsored",
+      "attributes": {
+        "class": "sponsored_label",
+        "role": "button",
+        "aria-label": "Get information, provide feedback or report sponsored ad",
+        "title": ""
+      }
+    },
+    {
+      "id": "21_108",
+      "description": "a link that says '7:06\nThe Most Anticipated Horror Releases of 2025\n\"The Last of Us\" Season 2 and More\n7344'",
+      "bounding_box": {
+        "x": 2601,
+        "y": 796,
+        "width": 583,
+        "height": 296
+      },
+      "element_type": "a",
+      "text_content": "7:06\nThe Most Anticipated Horror Releases of 2025\n\"The Last of Us\" Season 2 and More\n7344",
+      "attributes": {
+        "class": "sc-ed60be29-6 ljOQEX",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_109",
+      "description": "a link that says '2:20\n\"The Recruit\" Returns to Netflix Jan. 30\nWatch the Trailer\n354'",
+      "bounding_box": {
+        "x": 2601,
+        "y": 1092,
+        "width": 583,
+        "height": 296
+      },
+      "element_type": "a",
+      "text_content": "2:20\n\"The Recruit\" Returns to Netflix Jan. 30\nWatch the Trailer\n354",
+      "attributes": {
+        "class": "sc-ed60be29-6 ljOQEX",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_113",
+      "description": "the leftmost a link that says 'List'",
+      "bounding_box": {
+        "x": 688,
+        "y": 2027,
+        "width": 804,
+        "height": 452
+      },
+      "element_type": "a",
+      "text_content": "List",
+      "attributes": {
+        "class": "ipc-lockup-overlay ipc-focusable",
+        "role": null,
+        "aria-label": "List",
+        "title": ""
+      }
+    },
+    {
+      "id": "21_119",
+      "description": "the leftmost a link that says 'Photos'",
+      "bounding_box": {
+        "x": 2360,
+        "y": 2027,
+        "width": 804,
+        "height": 452
+      },
+      "element_type": "a",
+      "text_content": "Photos",
+      "attributes": {
+        "class": "ipc-lockup-overlay ipc-focusable",
+        "role": null,
+        "aria-label": "Photos",
+        "title": ""
+      }
+    },
+    {
+      "id": "21_196",
+      "description": "a link that says 'Cookie Notice'",
+      "bounding_box": {
+        "x": 2193,
+        "y": 1605,
+        "width": 181,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Cookie Notice",
+      "attributes": {
+        "class": "ipc-md-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_197",
+      "description": "a link that says 'cookies and advertising choices'",
+      "bounding_box": {
+        "x": 1051,
+        "y": 1765,
+        "width": 414,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "cookies and advertising choices",
+      "attributes": {
+        "class": "ipc-md-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_198",
+      "description": "a link that says 'Privacy Notice'",
+      "bounding_box": {
+        "x": 1784,
+        "y": 1805,
+        "width": 186,
+        "height": 33
+      },
+      "element_type": "a",
+      "text_content": "Privacy Notice",
+      "attributes": {
+        "class": "ipc-md-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_199",
+      "description": "a button labeled 'Decline'",
+      "bounding_box": {
+        "x": 2648,
+        "y": 1522,
+        "width": 256,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Decline",
+      "attributes": {
+        "class": "icb-btn sc-bcXHqe sc-hLBbgP sc-ftTHYK dcvrLS dufgkr ecppKW",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_200",
+      "description": "a button labeled 'Accept'",
+      "bounding_box": {
+        "x": 2920,
+        "y": 1522,
+        "width": 256,
+        "height": 72
+      },
+      "element_type": "button",
+      "text_content": "Accept",
+      "attributes": {
+        "class": "icb-btn sc-bcXHqe sc-dkrFOg sc-iBYQkv dcvrLS ddtuHe dRCGjd",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "21_201",
+      "description": "a link that says 'Customize'",
+      "bounding_box": {
+        "x": 2648,
+        "y": 1610,
+        "width": 528,
+        "height": 72
+      },
+      "element_type": "a",
+      "text_content": "Customize",
+      "attributes": {
+        "class": "icb-btn sc-bcXHqe sc-gswNZR dcvrLS dsvajE",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

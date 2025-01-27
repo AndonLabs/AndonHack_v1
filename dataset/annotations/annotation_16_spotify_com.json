@@ -1,0 +1,322 @@
+{
+  "url": "https://www.spotify.com/",
+  "website_name": "spotify_com",
+  "screenshot_path": "dataset/screenshots/screenshot_16_spotify_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "16_6",
+      "description": "a button labeled 'Sign up'",
+      "bounding_box": {
+        "x": 3417,
+        "y": 16,
+        "width": 190,
+        "height": 96
+      },
+      "element_type": "button",
+      "text_content": "Sign up",
+      "attributes": {
+        "class": "Button-sc-1dqy6lx-0 lhCJqB encore-text-body-medium-bold sibxBMlr_oxWTfBrEz2G",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_7",
+      "description": "a button labeled 'Log in'",
+      "bounding_box": {
+        "x": 3607,
+        "y": 16,
+        "width": 217,
+        "height": 96
+      },
+      "element_type": "button",
+      "text_content": "Log in",
+      "attributes": {
+        "class": "Button-sc-qlcn5g-0 iJUiBm encore-text-body-medium-bold",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_8",
+      "description": "a button labeled 'Your Library'",
+      "bounding_box": {
+        "x": 48,
+        "y": 152,
+        "width": 284,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Your Library",
+      "attributes": {
+        "class": "Button-sc-1dqy6lx-0 iGxOjp encore-text-body-medium-bold i_FRcsaqNCEJmoyObIP0 cljOO1tpzixzXctKJucK NxEINIJHGytq4gF1r2N1 or84FBarW2zQhXfB9VFb odS2IW9wfNVHhkhc0l_X O0AN8Ty_Cxd4iLwyKATB wQnUXn1m6Gy4PH8jhslb D8wJ9TPfJzLeLJYxnad2 oE8LAmRhbeQqsZrQo4lb zWWLnqWslTLHwq3wBgGB XNjgtSbyhshr7YQcVvry mhuhir0ikRqXAPHU8ZZ1",
+        "role": null,
+        "aria-label": "Collapse Your Library",
+        "title": ""
+      }
+    },
+    {
+      "id": "16_10",
+      "description": "a button labeled 'Create playlist'",
+      "bounding_box": {
+        "x": 72,
+        "y": 466,
+        "width": 251,
+        "height": 64
+      },
+      "element_type": "button",
+      "text_content": "Create playlist",
+      "attributes": {
+        "class": "Button-sc-qlcn5g-0 iJUiBm encore-text-body-small-bold",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_11",
+      "description": "a link that says 'Browse podcasts'",
+      "bounding_box": {
+        "x": 72,
+        "y": 780,
+        "width": 285,
+        "height": 64
+      },
+      "element_type": "a",
+      "text_content": "Browse podcasts",
+      "attributes": {
+        "class": "Button-sc-qlcn5g-0 iJUiBm encore-text-body-small-bold",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_31",
+      "description": "a link that says 'Popular artists'",
+      "bounding_box": {
+        "x": 920,
+        "y": 158,
+        "width": 320,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "Popular artists",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_32",
+      "description": "the topmost a link that says 'Show all'",
+      "bounding_box": {
+        "x": 3652,
+        "y": 138,
+        "width": 108,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Show all",
+      "attributes": {
+        "class": "a7lvtXATo3HALtrsOHtO MVQhEntGN2lszQdk9z4m",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_35",
+      "description": "a link that says 'Mariah Carey'",
+      "bounding_box": {
+        "x": 920,
+        "y": 708,
+        "width": 191,
+        "height": 44
+      },
+      "element_type": "a",
+      "text_content": "Mariah Carey",
+      "attributes": {
+        "class": "Gi6Lr1whYBA2jutvHvjQ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_38",
+      "description": "a link that says 'Wham!'",
+      "bounding_box": {
+        "x": 1404,
+        "y": 708,
+        "width": 103,
+        "height": 44
+      },
+      "element_type": "a",
+      "text_content": "Wham!",
+      "attributes": {
+        "class": "Gi6Lr1whYBA2jutvHvjQ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_41",
+      "description": "a link that says 'Brenda Lee'",
+      "bounding_box": {
+        "x": 1888,
+        "y": 708,
+        "width": 163,
+        "height": 44
+      },
+      "element_type": "a",
+      "text_content": "Brenda Lee",
+      "attributes": {
+        "class": "Gi6Lr1whYBA2jutvHvjQ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_44",
+      "description": "a link that says 'Tommy K\u00f6rberg'",
+      "bounding_box": {
+        "x": 2372,
+        "y": 708,
+        "width": 232,
+        "height": 44
+      },
+      "element_type": "a",
+      "text_content": "Tommy K\u00f6rberg",
+      "attributes": {
+        "class": "Gi6Lr1whYBA2jutvHvjQ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_47",
+      "description": "a link that says 'Ed Sheeran'",
+      "bounding_box": {
+        "x": 2856,
+        "y": 708,
+        "width": 164,
+        "height": 44
+      },
+      "element_type": "a",
+      "text_content": "Ed Sheeran",
+      "attributes": {
+        "class": "Gi6Lr1whYBA2jutvHvjQ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_50",
+      "description": "a link that says 'Carola'",
+      "bounding_box": {
+        "x": 3340,
+        "y": 708,
+        "width": 94,
+        "height": 44
+      },
+      "element_type": "a",
+      "text_content": "Carola",
+      "attributes": {
+        "class": "Gi6Lr1whYBA2jutvHvjQ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_63",
+      "description": "a link that says 'Popular albums and singles'",
+      "bounding_box": {
+        "x": 920,
+        "y": 892,
+        "width": 594,
+        "height": 58
+      },
+      "element_type": "a",
+      "text_content": "Popular albums and singles",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_273",
+      "description": "a button labeled 'LIST OF PARTNERS (VENDORS)'",
+      "bounding_box": {
+        "x": 2002,
+        "y": 1602,
+        "width": 498,
+        "height": 42
+      },
+      "element_type": "button",
+      "text_content": "LIST OF PARTNERS (VENDORS)",
+      "attributes": {
+        "class": "ot-link-btn onetrust-vendors-list-handler",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_274",
+      "description": "a button labeled 'ACCEPT COOKIES'",
+      "bounding_box": {
+        "x": 768,
+        "y": 1696,
+        "width": 444,
+        "height": 96
+      },
+      "element_type": "button",
+      "text_content": "ACCEPT COOKIES",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "16_275",
+      "description": "a button labeled 'COOKIE SETTINGS'",
+      "bounding_box": {
+        "x": 1292,
+        "y": 1696,
+        "width": 320,
+        "height": 96
+      },
+      "element_type": "button",
+      "text_content": "COOKIE SETTINGS",
+      "attributes": {
+        "class": "cookie-setting-link",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

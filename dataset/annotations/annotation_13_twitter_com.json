@@ -1,0 +1,484 @@
+{
+  "url": "https://www.twitter.com/",
+  "website_name": "twitter_com",
+  "screenshot_path": "dataset/screenshots/screenshot_13_twitter_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "13_0",
+      "description": "a button labeled 'Show more about your choices.'",
+      "bounding_box": {
+        "x": 681,
+        "y": 1766,
+        "width": 375,
+        "height": 32
+      },
+      "element_type": "button",
+      "text_content": "Show more about your choices.",
+      "attributes": {
+        "class": "css-1jxf684 r-bcqeeo r-qvutc0 r-poiln3 r-1ddef8g r-tjvw6i r-fdjqy7",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_1",
+      "description": "a button labeled 'Accept all cookies'",
+      "bounding_box": {
+        "x": 2429,
+        "y": 1634,
+        "width": 840,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Accept all cookies",
+      "attributes": {
+        "class": "css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-18kxxzh r-1q142lx r-eu3ka r-5oul0u r-lif3th r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_2",
+      "description": "a button labeled 'Refuse non-essential cookies'",
+      "bounding_box": {
+        "x": 2429,
+        "y": 1730,
+        "width": 840,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Refuse non-essential cookies",
+      "attributes": {
+        "class": "css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-18kxxzh r-1q142lx r-eu3ka r-5oul0u r-lif3th r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_3",
+      "description": "a button labeled 'Sign up with Google'",
+      "bounding_box": {
+        "x": 2184,
+        "y": 645,
+        "width": 600,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Sign up with Google",
+      "attributes": {
+        "class": "css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-17w48nw r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_4",
+      "description": "a button labeled 'Sign up with Apple'",
+      "bounding_box": {
+        "x": 2184,
+        "y": 741,
+        "width": 600,
+        "height": 80
+      },
+      "element_type": "button",
+      "text_content": "Sign up with Apple",
+      "attributes": {
+        "class": "css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-17w48nw r-a9p05 r-eu3ka r-1ipicw7 r-p1pxzi r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_5",
+      "description": "a link that says 'Create account'",
+      "bounding_box": {
+        "x": 2184,
+        "y": 893,
+        "width": 600,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Create account",
+      "attributes": {
+        "class": "css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-17w48nw r-a9p05 r-eu3ka r-5oul0u r-1ipicw7 r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_6",
+      "description": "the rightmost a link that says 'Terms of Service' in small text",
+      "bounding_box": {
+        "x": 2495,
+        "y": 988,
+        "width": 167,
+        "height": 26
+      },
+      "element_type": "a",
+      "text_content": "Terms of Service",
+      "attributes": {
+        "class": "css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_8",
+      "description": "a link that says 'Cookie Use.'",
+      "bounding_box": {
+        "x": 2351,
+        "y": 1012,
+        "width": 121,
+        "height": 26
+      },
+      "element_type": "a",
+      "text_content": "Cookie Use.",
+      "attributes": {
+        "class": "css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_9",
+      "description": "a link that says 'Sign in'",
+      "bounding_box": {
+        "x": 2184,
+        "y": 1237,
+        "width": 600,
+        "height": 80
+      },
+      "element_type": "a",
+      "text_content": "Sign in",
+      "attributes": {
+        "class": "css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-17w48nw r-a9p05 r-eu3ka r-5oul0u r-1ipicw7 r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_10",
+      "description": "a link that says 'About'",
+      "bounding_box": {
+        "x": 368,
+        "y": 1514,
+        "width": 105,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "About",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_11",
+      "description": "a link that says 'Download the X app'",
+      "bounding_box": {
+        "x": 473,
+        "y": 1514,
+        "width": 273,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Download the X app",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_12",
+      "description": "a link that says 'Help Center'",
+      "bounding_box": {
+        "x": 747,
+        "y": 1514,
+        "width": 174,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Help Center",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_13",
+      "description": "the leftmost a link that says 'Terms of Service'",
+      "bounding_box": {
+        "x": 921,
+        "y": 1514,
+        "width": 229,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Terms of Service",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_14",
+      "description": "the leftmost a link that says 'Privacy Policy'",
+      "bounding_box": {
+        "x": 1150,
+        "y": 1514,
+        "width": 196,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Privacy Policy",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_15",
+      "description": "a link that says 'Cookie Policy'",
+      "bounding_box": {
+        "x": 1346,
+        "y": 1514,
+        "width": 193,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Cookie Policy",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_16",
+      "description": "a link that says 'Accessibility'",
+      "bounding_box": {
+        "x": 1539,
+        "y": 1514,
+        "width": 183,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Accessibility",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_17",
+      "description": "a link that says 'Ads info'",
+      "bounding_box": {
+        "x": 1721,
+        "y": 1514,
+        "width": 130,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Ads info",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_18",
+      "description": "a link that says 'Blog'",
+      "bounding_box": {
+        "x": 1851,
+        "y": 1514,
+        "width": 85,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Blog",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_19",
+      "description": "a link that says 'Careers'",
+      "bounding_box": {
+        "x": 1936,
+        "y": 1514,
+        "width": 125,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Careers",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_20",
+      "description": "a link that says 'Brand Resources'",
+      "bounding_box": {
+        "x": 2061,
+        "y": 1514,
+        "width": 235,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Brand Resources",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_21",
+      "description": "a link that says 'Advertising'",
+      "bounding_box": {
+        "x": 2296,
+        "y": 1514,
+        "width": 167,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Advertising",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_22",
+      "description": "a link that says 'Marketing'",
+      "bounding_box": {
+        "x": 2462,
+        "y": 1514,
+        "width": 151,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Marketing",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_23",
+      "description": "a link that says 'X for Business'",
+      "bounding_box": {
+        "x": 2614,
+        "y": 1514,
+        "width": 202,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "X for Business",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_24",
+      "description": "a link that says 'Developers'",
+      "bounding_box": {
+        "x": 2815,
+        "y": 1514,
+        "width": 167,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Developers",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_25",
+      "description": "a link that says 'Directory'",
+      "bounding_box": {
+        "x": 2982,
+        "y": 1514,
+        "width": 142,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Directory",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "13_26",
+      "description": "a link that says 'Settings'",
+      "bounding_box": {
+        "x": 3124,
+        "y": 1514,
+        "width": 131,
+        "height": 32
+      },
+      "element_type": "a",
+      "text_content": "Settings",
+      "attributes": {
+        "class": "css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-n6v787 r-1cwl3u0 r-16dba41 r-l00any r-1c4vpko r-1loqt21",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

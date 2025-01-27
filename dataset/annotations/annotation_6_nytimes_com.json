@@ -1,0 +1,124 @@
+{
+  "url": "https://www.nytimes.com/",
+  "website_name": "nytimes_com",
+  "screenshot_path": "dataset/screenshots/screenshot_6_nytimes_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 13246,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "6_1",
+      "description": "a link that says 'Cookie Policy'",
+      "bounding_box": {
+        "x": 145,
+        "y": 1552,
+        "width": 158,
+        "height": 34
+      },
+      "element_type": "a",
+      "text_content": "Cookie Policy",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "6_2",
+      "description": "the leftmost a link that says 'Privacy Policy'",
+      "bounding_box": {
+        "x": 360,
+        "y": 1552,
+        "width": 160,
+        "height": 34
+      },
+      "element_type": "a",
+      "text_content": "Privacy Policy",
+      "attributes": {
+        "class": "",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "6_7",
+      "description": "a button labeled 'Reject all'",
+      "bounding_box": {
+        "x": 3368,
+        "y": 1618,
+        "width": 432,
+        "height": 64
+      },
+      "element_type": "button",
+      "text_content": "Reject all",
+      "attributes": {
+        "class": "fides-banner-button fides-banner-button-primary fides-reject-all-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "6_8",
+      "description": "a button labeled 'Accept all'",
+      "bounding_box": {
+        "x": 3368,
+        "y": 1522,
+        "width": 432,
+        "height": 64
+      },
+      "element_type": "button",
+      "text_content": "Accept all",
+      "attributes": {
+        "class": "fides-banner-button fides-banner-button-primary fides-accept-all-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "6_11",
+      "description": "a button labeled 'Manage preferences'",
+      "bounding_box": {
+        "x": 3368,
+        "y": 1714,
+        "width": 432,
+        "height": 64
+      },
+      "element_type": "button",
+      "text_content": "Manage preferences",
+      "attributes": {
+        "class": "fides-banner-button fides-banner-button-tertiary fides-manage-preferences-button",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "6_694",
+      "description": "a link that says 'DEALBOOKNEWSLETTER\nThe Fallout From the End of the U.S. Steel Deal'",
+      "bounding_box": {
+        "x": 720,
+        "y": 1814,
+        "width": 582,
+        "height": 143
+      },
+      "element_type": "a",
+      "text_content": "DEALBOOKNEWSLETTER\nThe Fallout From the End of the U.S. Steel Deal",
+      "attributes": {
+        "class": "css-9mylee",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

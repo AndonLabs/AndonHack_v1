@@ -1,0 +1,70 @@
+{
+  "url": "https://www.facebook.com/",
+  "website_name": "facebook_com",
+  "screenshot_path": "dataset/screenshots/screenshot_18_facebook_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "18_55",
+      "description": "the rightmost a link to facebook.com/#",
+      "bounding_box": {
+        "x": 2544,
+        "y": 232,
+        "width": 54,
+        "height": 52
+      },
+      "element_type": "a",
+      "text_content": "",
+      "attributes": {
+        "class": "_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "18_56",
+      "description": "a link that says 'Meta Products'",
+      "bounding_box": {
+        "x": 2351,
+        "y": 442,
+        "width": 193,
+        "height": 35
+      },
+      "element_type": "a",
+      "text_content": "Meta Products",
+      "attributes": {
+        "class": "x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "18_57",
+      "description": "a link that says 'Cookies Policy'",
+      "bounding_box": {
+        "x": 2068,
+        "y": 872,
+        "width": 197,
+        "height": 35
+      },
+      "element_type": "a",
+      "text_content": "Cookies Policy",
+      "attributes": {
+        "class": "x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f",
+        "role": "link",
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "url": "https://www.nasa.gov/",
+  "website_name": "nasa_gov",
+  "screenshot_path": "dataset/screenshots/screenshot_4_nasa_gov.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 7552,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "4_3",
+      "description": "a button labeled 'Explore'",
+      "bounding_box": {
+        "x": 160,
+        "y": 41,
+        "width": 258,
+        "height": 99
+      },
+      "element_type": "button",
+      "text_content": "Explore",
+      "attributes": {
+        "class": "usa-accordion__button usa-nav__link display-flex flex-align-center",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_4",
+      "description": "the rightmost a search box with placeholder Search...",
+      "bounding_box": {
+        "x": 450,
+        "y": 59,
+        "width": 400,
+        "height": 64
+      },
+      "element_type": "input",
+      "text_content": "",
+      "attributes": {
+        "class": "hds-search-input hds-search-input-dark usa-input border bg-carbon-black border-color-carbon-70-important",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_7",
+      "description": "a button labeled 'News & Events'",
+      "bounding_box": {
+        "x": 2760,
+        "y": 39,
+        "width": 358,
+        "height": 99
+      },
+      "element_type": "button",
+      "text_content": "News & Events",
+      "attributes": {
+        "class": "usa-nav__link heading-16 color-spacesuit-white padding-y-2 padding-x-2 display-flex flex-align-center",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_19",
+      "description": "a button labeled 'Multimedia'",
+      "bounding_box": {
+        "x": 3118,
+        "y": 39,
+        "width": 296,
+        "height": 99
+      },
+      "element_type": "button",
+      "text_content": "Multimedia",
+      "attributes": {
+        "class": "usa-nav__link heading-16 color-spacesuit-white padding-y-2 padding-x-2 display-flex flex-align-center",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_31",
+      "description": "the rightmost a link that says 'NASA+'",
+      "bounding_box": {
+        "x": 3414,
+        "y": 39,
+        "width": 242,
+        "height": 101
+      },
+      "element_type": "a",
+      "text_content": "NASA+",
+      "attributes": {
+        "class": "hds-nav__link-nasa-live usa-nav__link-nasa-live usa-nav__link heading-16 color-spacesuit-white",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_216",
+      "description": "a link that says 'January Skywatching Tips'",
+      "bounding_box": {
+        "x": 208,
+        "y": 829,
+        "width": 653,
+        "height": 92
+      },
+      "element_type": "a",
+      "text_content": "January Skywatching Tips",
+      "attributes": {
+        "class": "usa-button usa-button--secondary bg-nasa-red",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_217",
+      "description": "a link that says 'Expert Tips'",
+      "bounding_box": {
+        "x": 208,
+        "y": 1310,
+        "width": 227,
+        "height": 62
+      },
+      "element_type": "a",
+      "text_content": "Expert Tips",
+      "attributes": {
+        "class": "button-primary button-primary-sm link-external-true",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_218",
+      "description": "a link that says 'Hubble's Night Sky Challenge'",
+      "bounding_box": {
+        "x": 1064,
+        "y": 1310,
+        "width": 509,
+        "height": 62
+      },
+      "element_type": "a",
+      "text_content": "Hubble's Night Sky Challenge",
+      "attributes": {
+        "class": "button-primary button-primary-sm link-external-true",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_219",
+      "description": "a link that says 'Night Sky Network'",
+      "bounding_box": {
+        "x": 1920,
+        "y": 1310,
+        "width": 339,
+        "height": 62
+      },
+      "element_type": "a",
+      "text_content": "Night Sky Network",
+      "attributes": {
+        "class": "button-primary button-primary-sm link-external-true",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_221",
+      "description": "the rightmost an unlabeled button",
+      "bounding_box": {
+        "x": 3676,
+        "y": 1273,
+        "width": 100,
+        "height": 100
+      },
+      "element_type": "button",
+      "text_content": "",
+      "attributes": {
+        "class": "hds-mag-progress hds-mag-pause-play",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_222",
+      "description": "a link that says 'More NASA News'",
+      "bounding_box": {
+        "x": 2776,
+        "y": 1651,
+        "width": 440,
+        "height": 45
+      },
+      "element_type": "a",
+      "text_content": "More NASA News",
+      "attributes": {
+        "class": "button-primary button-primary link-external-true",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_223",
+      "description": "a link that says 'NEWS RELEASE\n2 MIN READ\nNASA Administrator Pays Tribute to President Carter'",
+      "bounding_box": {
+        "x": 624,
+        "y": 1847,
+        "width": 1280,
+        "height": 800
+      },
+      "element_type": "a",
+      "text_content": "NEWS RELEASE\n2 MIN READ\nNASA Administrator Pays Tribute to President Carter",
+      "attributes": {
+        "class": "tablet:grid-col latest-news-item news-item tablet:padding-right-0",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_224",
+      "description": "a link that says 'ARTICLE\n5 MIN READ\nNASA\u2019s Parker Solar Probe Makes History With Closest Pass to Sun'",
+      "bounding_box": {
+        "x": 1936,
+        "y": 1847,
+        "width": 656,
+        "height": 800
+      },
+      "element_type": "a",
+      "text_content": "ARTICLE\n5 MIN READ\nNASA\u2019s Parker Solar Probe Makes History With Closest Pass to Sun",
+      "attributes": {
+        "class": "tablet:grid-col latest-news-item news-item margin-bottom-2 tablet:margin-bottom-0 desktop:margin-bottom-0 tablet:padding-right-2 desktop:padding-right-2",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "4_225",
+      "description": "a link that says 'ARTICLE\n4 MIN READ\nNASA\u2019s New Deep Space Network Antenna Has Its Crowning Moment'",
+      "bounding_box": {
+        "x": 2592,
+        "y": 1847,
+        "width": 624,
+        "height": 384
+      },
+      "element_type": "a",
+      "text_content": "ARTICLE\n4 MIN READ\nNASA\u2019s New Deep Space Network Antenna Has Its Crowning Moment",
+      "attributes": {
+        "class": "tablet:grid-col latest-news-item news-item tablet:margin-right-0 desktop:margin-right-0 margin-bottom-2 mobile:margin-bottom-2 tablet:margin-bottom-2 desktop:margin-bottom-2",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}

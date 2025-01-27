@@ -1,0 +1,574 @@
+{
+  "url": "https://www.amazon.com/",
+  "website_name": "amazon_com",
+  "screenshot_path": "dataset/screenshots/screenshot_9_amazon_com.jpg",
+  "viewport_dimensions": {
+    "height": 941,
+    "width": 1920
+  },
+  "document_dimensions": {
+    "height": 5728,
+    "width": 1920
+  },
+  "device_pixel_ratio": 2,
+  "elements": [
+    {
+      "id": "9_12",
+      "description": "a link that says 'Deliver to\nSweden'",
+      "bounding_box": {
+        "x": 270,
+        "y": 10,
+        "width": 178,
+        "height": 100
+      },
+      "element_type": "a",
+      "text_content": "Deliver to\nSweden",
+      "attributes": {
+        "class": "nav-a nav-a-2 a-popover-trigger a-declarative nav-progressive-attribute",
+        "role": "button",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_19",
+      "description": "the rightmost a submit button labeled Go",
+      "bounding_box": {
+        "x": 2890,
+        "y": 20,
+        "width": 90,
+        "height": 80
+      },
+      "element_type": "input",
+      "text_content": "",
+      "attributes": {
+        "class": "nav-input nav-progressive-attribute",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_20",
+      "description": "a link that says 'EN'",
+      "bounding_box": {
+        "x": 3026,
+        "y": 10,
+        "width": 149,
+        "height": 100
+      },
+      "element_type": "a",
+      "text_content": "EN",
+      "attributes": {
+        "class": "nav-a nav-a-2 icp-link-style-2",
+        "role": null,
+        "aria-label": "Choose a language for shopping. Current selection is English. ",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_21",
+      "description": "a link that says 'Hello, sign in\nAccount & Lists'",
+      "bounding_box": {
+        "x": 3187,
+        "y": 10,
+        "width": 275,
+        "height": 100
+      },
+      "element_type": "a",
+      "text_content": "Hello, sign in\nAccount & Lists",
+      "attributes": {
+        "class": "nav-a nav-a-2   nav-progressive-attribute",
+        "role": "dialog",
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_22",
+      "description": "a link that says 'Returns\n& Orders'",
+      "bounding_box": {
+        "x": 3474,
+        "y": 10,
+        "width": 156,
+        "height": 100
+      },
+      "element_type": "a",
+      "text_content": "Returns\n& Orders",
+      "attributes": {
+        "class": "nav-a nav-a-2   nav-progressive-attribute",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_23",
+      "description": "a link that says '0\nCart'",
+      "bounding_box": {
+        "x": 3642,
+        "y": 10,
+        "width": 168,
+        "height": 100
+      },
+      "element_type": "a",
+      "text_content": "0\nCart",
+      "attributes": {
+        "class": "nav-a nav-a-2 nav-progressive-attribute",
+        "role": null,
+        "aria-label": "0 items in cart",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_43",
+      "description": "a link that says 'All'",
+      "bounding_box": {
+        "x": 30,
+        "y": 120,
+        "width": 116,
+        "height": 78
+      },
+      "element_type": "a",
+      "text_content": "All",
+      "attributes": {
+        "class": "",
+        "role": "button",
+        "aria-label": "Open All Categories Menu",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_61",
+      "description": "a link that says 'Click here to go to amazon.se'",
+      "bounding_box": {
+        "x": 2427,
+        "y": 722,
+        "width": 370,
+        "height": 31
+      },
+      "element_type": "a",
+      "text_content": "Click here to go to amazon.se",
+      "attributes": {
+        "class": "a-size-base a-link-normal",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_62",
+      "description": "a link that says 'Headsets'",
+      "bounding_box": {
+        "x": 500,
+        "y": 933,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Headsets",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Headsets",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_63",
+      "description": "a link that says 'Keyboards'",
+      "bounding_box": {
+        "x": 826,
+        "y": 933,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Keyboards",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Keyboards",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_64",
+      "description": "a link that says 'Computer mice'",
+      "bounding_box": {
+        "x": 500,
+        "y": 1252,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Computer mice",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Computer mice",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_65",
+      "description": "a link that says 'Chairs'",
+      "bounding_box": {
+        "x": 826,
+        "y": 1252,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Chairs",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Chairs",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_66",
+      "description": "the topmost a link that says 'See more'",
+      "bounding_box": {
+        "x": 500,
+        "y": 1584,
+        "width": 620,
+        "height": 34
+      },
+      "element_type": "a",
+      "text_content": "See more",
+      "attributes": {
+        "class": "a-link-normal",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_67",
+      "description": "a link that says 'Cleaning Tools'",
+      "bounding_box": {
+        "x": 1240,
+        "y": 933,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Cleaning Tools",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Cleaning Tools",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_68",
+      "description": "a link that says 'Home Storage'",
+      "bounding_box": {
+        "x": 1566,
+        "y": 933,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Home Storage",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Home Storage",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_69",
+      "description": "the leftmost a link that says 'Home Decor'",
+      "bounding_box": {
+        "x": 1240,
+        "y": 1252,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Home Decor",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Home Decor",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_70",
+      "description": "a link that says 'Bedding'",
+      "bounding_box": {
+        "x": 1566,
+        "y": 1252,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Bedding",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Bedding",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_71",
+      "description": "a link that says 'Discover more in Home'",
+      "bounding_box": {
+        "x": 1240,
+        "y": 1584,
+        "width": 620,
+        "height": 34
+      },
+      "element_type": "a",
+      "text_content": "Discover more in Home",
+      "attributes": {
+        "class": "a-link-normal",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_72",
+      "description": "a link that says 'Kitchen & dining'",
+      "bounding_box": {
+        "x": 1980,
+        "y": 933,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Kitchen & dining",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Kitchen & dining",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_73",
+      "description": "a link that says 'Home improvement'",
+      "bounding_box": {
+        "x": 2306,
+        "y": 933,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Home improvement",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Home improvement",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_74",
+      "description": "a link that says 'D\u00e9cor'",
+      "bounding_box": {
+        "x": 1980,
+        "y": 1252,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "D\u00e9cor",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "D\u00e9cor",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_75",
+      "description": "a link that says 'Bedding & bath'",
+      "bounding_box": {
+        "x": 2306,
+        "y": 1252,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Bedding & bath",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Bedding & bath",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_76",
+      "description": "a link that says 'Shop the latest from Home'",
+      "bounding_box": {
+        "x": 1980,
+        "y": 1584,
+        "width": 620,
+        "height": 34
+      },
+      "element_type": "a",
+      "text_content": "Shop the latest from Home",
+      "attributes": {
+        "class": "a-link-normal",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_77",
+      "description": "a link that says 'Shop gaming'",
+      "bounding_box": {
+        "x": 2680,
+        "y": 933,
+        "width": 700,
+        "height": 695
+      },
+      "element_type": "a",
+      "text_content": "Shop gaming",
+      "attributes": {
+        "class": "a-link-normal _fluid-fat-image-link-v2_style_mergedLinks__10JqZ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_78",
+      "description": "a link that says 'Jeans under $50'",
+      "bounding_box": {
+        "x": 500,
+        "y": 1813,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Jeans under $50",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Jeans under $50",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_79",
+      "description": "a link that says 'Tops under $25'",
+      "bounding_box": {
+        "x": 826,
+        "y": 1813,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Tops under $25",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Tops under $25",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_80",
+      "description": "a link that says 'Dresses under $30'",
+      "bounding_box": {
+        "x": 500,
+        "y": 2132,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Dresses under $30",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Dresses under $30",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_81",
+      "description": "a link that says 'Shoes under $50'",
+      "bounding_box": {
+        "x": 826,
+        "y": 2132,
+        "width": 294,
+        "height": 232
+      },
+      "element_type": "a",
+      "text_content": "Shoes under $50",
+      "attributes": {
+        "class": "a-link-normal _fluid-quad-image-label-v2_style_centerImage__30wh- aok-block image-window",
+        "role": null,
+        "aria-label": "Shoes under $50",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_83",
+      "description": "a link that says 'Cooker'",
+      "bounding_box": {
+        "x": 1240,
+        "y": 1867,
+        "width": 620,
+        "height": 330
+      },
+      "element_type": "a",
+      "text_content": "Cooker",
+      "attributes": {
+        "class": "a-link-normal _quad-category-card_desktopStyle_heroLink__1EhW2 a-text-normal",
+        "role": null,
+        "aria-label": "Cooker",
+        "title": ""
+      }
+    },
+    {
+      "id": "9_88",
+      "description": "the leftmost a link that says 'Shop now'",
+      "bounding_box": {
+        "x": 1940,
+        "y": 1813,
+        "width": 700,
+        "height": 695
+      },
+      "element_type": "a",
+      "text_content": "Shop now",
+      "attributes": {
+        "class": "a-link-normal _fluid-fat-image-link-v2_style_mergedLinks__10JqZ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    },
+    {
+      "id": "9_89",
+      "description": "the rightmost a link that says 'Shop now'",
+      "bounding_box": {
+        "x": 2680,
+        "y": 1813,
+        "width": 700,
+        "height": 695
+      },
+      "element_type": "a",
+      "text_content": "Shop now",
+      "attributes": {
+        "class": "a-link-normal _fluid-fat-image-link-v2_style_mergedLinks__10JqZ",
+        "role": null,
+        "aria-label": null,
+        "title": ""
+      }
+    }
+  ]
+}
